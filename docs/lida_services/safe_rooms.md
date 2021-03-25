@@ -1,42 +1,55 @@
 ---
 layout: default
-title: LASER
+title: Safe Rooms
 parent: LIDA Services
 nav_order: 2
 ---
 
-## Leeds Analytic Secure Environment for Research 
+## Safe Rooms 
 
-LASER offers the combination of meeting the highest standards of security for data analytics, of course ensuring ISO27001 and NHS Data Security and Protection Toolkit compliance with the fexibility to enable constant agility in design and function; alongside scalability depending on the researcher need. This platform is supported through a commitment backed up by both LIDA and the University of Leeds IT Service to ensure high quality service wrap around to maximise ease and efficiency of time for researchers.
+### What is a safe room used for?
+When data has been classified as IRC Secure (see Data Classification) a researcher will only be able to access the data from a controlled environment where the risks of data leakage can be controlled.
 
-### What is a Virtual Research Environment? 
-LASER is the platform upon which we can build and host Virtual Research Environments (VREs). 
+### Opening Times    
+8.30 a.m. to 5 p.m. weekdays 
 
-In their simplest form, a VRE is a virtualised environment consisting of virtual machines and shared storage where data flow is strictly controlled. Taking a 'walled garden' approach, there is _no access to the internet_ or other networks from inside a VRE. 
+### Bookings and use of the Safe Rooms
+Both the LIDA Reception staff and the Data Services Team can book safe rooms.  These are:
 
-Research is conducted by connecting to a virtual machine (VM) within a VRE. The VMs within a single VRE can all see the same project shared storage, which is inaccessible from other VREs. Software can be installed to and run directly on the VMs. 
+- ​Room 11.15
+- Room 11.16
+- ​Room 11.83	
 
-![LASER.png](../../images/index/laser_smol.png)
+Photo ID will be requested to evidence user identity. The type of ID may vary depending on the user:
+- Internal (University members) users 
+	– Staff card
+- External users 
+	– Driving license
+	- passport
+	- other recognised national identification card
 
-More complex and involved VREs can be designed; please discuss your project requirements with a member of the Data Analytics Team as early as possible to explore what might be suitable.
+Key fobs are provided to access the safe rooms. These will be signed out by reception staff at the start of each session and you must return them at the end of the session. A record will be kept of which users access which room and when.
 
-**The LASER Platform has been designed with and for researchers and includes the following capabilities:**
-- Fully flexible and scalable to enable researchers to align spend to research requirements.
-- Agile and quick to provision, to support a range of research user cases.
-- Access to the latest tools and capabilities such as machine learning to support researchers. 
+The Data Services Team will send external researchers a copy of the Health and Safety.pdf.  A signed copy of this document must be presented to front desk upon first arrival to LIDA to use the safe room.
 
-### Standards & Specifications
-**The system has been specified and is maintained to ensure the highest standards of data security:**
-- Resilience levels and backups provided by one of the most cyber-aware and heavily invested companies in the world. 
-- Regularly patched with the latest software and operating system updates.
-- Encryption at rest – all data at rest is encrypted to AES256 Bit encryption.
-- Encryption in transit – all data is encrypted using TLS 1.2.
-- Residency – all data is stored in the UK.
-- Access Controls – role-based access controls and the principles of least privileged access are implemented to ensure only authorised users are able to view data.
-- Data are classified according to sensitivity and criticality, with robust checks on data input and output to and from the Cloud, including a fully maintained asset register.
-- Multifactor authentication is implemented with the ability to restrict access to specified safe rooms on Campus, for data requiring the highest level of security.
-- Monitoring and threat detection provides unified security management with supporting network controls to isolate information in our networks and its supporting information processing facilities.
-- ISO27001 compliant.
-- NHS Data Security and Protection Toolkit compliant. 
+### Regulations
+There are a number of regulations in place that the user must adhere to in order to maintain the integrity of the data being accessed and the reputation/standards of the IRC. These are as follows:
+- All personal items must be stored in the lockers provided on site (see below). These include (but not limited to) mobile phones, laptops, tablets and baggage.
+- All means of recording data, including pen/pencil and paper, are prohibited, and must also be kept in the lockers provided.
+- CCTV is in operation, including outside the safe rooms.
+- The safe rooms are locked and can only be accessed by permitted users. These can be accessed by fob key, which will be allocated at the beginning of each session. The rooms can be opened from the inside without use of the fob
 
-If you have any questions or are interested in working with LIDA and using the LASER platform, please contact a member of the [Data Analytics Team](mailto:ircdst@leeds.ac.uk)
+### Lockers
+Lockers are available outside the safe rooms. ​To unlock an unused locker, set the combination lock to 3333 and turn the lock clockwise or anti-clockwise a one quarter turn.
+
+![lock2.jpg](../../images/safe_rooms/lock2.jpg)
+
+​To secure personal belongings the lock will need to be set with a personal code. To set a new combination code, hold the button on the left in, set a new 4 digit number and then release the button. Scramble the code immediately after closing the door.
+
+![lock1.jpg](../../images/safe_rooms/lock1.jpg)
+
+                      
+After the locker has been used, please reset the code back to factory defaults using the above instructions. In case the code was forgotten the locker can be opened by reception staff using a service key.
+
+### In case of an Emergency 
+For lone workers, if you need help in an emergency you can press the red button within the safe room to raise the alarm.
