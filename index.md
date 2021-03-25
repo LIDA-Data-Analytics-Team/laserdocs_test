@@ -1,5 +1,5 @@
 ---
 layout: default
 title: index
-nav_order: 0
+nav_exclude: true
 ---
