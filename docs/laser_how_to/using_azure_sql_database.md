@@ -8,7 +8,7 @@ nav_order: 8
 ## Connect to database via SSMS
 
 When SSMS opens you will be prompted for the connection details.   
-![ssms_connect_to_server_1.png](./images/using_azure_sql_database/ssms_connect_to_server_1.png)
+![ssms_connect_to_server_1.png](../../images/using_azure_sql_database/ssms_connect_to_server_1.png)
 
 Enter the following:
 - Server type = Database Engine
@@ -16,7 +16,7 @@ Enter the following:
 - Authentication = Azure Active Directory - Integrated
 
 Click 'Options >>' and go to the second tab 'Connection Properties'.  
-![ssms_connect_to_server_2.png](./images/using_azure_sql_database/ssms_connect_to_server_2.png)
+![ssms_connect_to_server_2.png](../../images/using_azure_sql_database/ssms_connect_to_server_2.png)
 
 Change 'Connect to database' from \<default> to the name of your database.
 
