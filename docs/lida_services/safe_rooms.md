@@ -16,15 +16,15 @@ When data has been classified as IRC Secure (see Data Classification) a research
 ### Bookings and use of the Safe Rooms
 Both the LIDA Reception staff and the Data Services Team can book safe rooms.  These are:
 
-- ​Room 11.15
+- Room 11.15
 - Room 11.16
-- ​Room 11.83	
+- Room 11.83	
 
 Photo ID will be requested to evidence user identity. The type of ID may vary depending on the user:
-- Internal (University members) users 
-	– Staff card
-- External users 
-	– Driving license
+- Internal (University members) users
+	- Staff card
+- External users
+	- Driving license
 	- passport
 	- other recognised national identification card
 
@@ -44,7 +44,7 @@ Lockers are available outside the safe rooms. ​To unlock an unused locker, set
 
 ![lock2.jpg](../../images/safe_rooms/lock2.jpg)
 
-​To secure personal belongings the lock will need to be set with a personal code. To set a new combination code, hold the button on the left in, set a new 4 digit number and then release the button. Scramble the code immediately after closing the door.
+To secure personal belongings the lock will need to be set with a personal code. To set a new combination code, hold the button on the left in, set a new 4 digit number and then release the button. Scramble the code immediately after closing the door.
 
 ![lock1.jpg](../../images/safe_rooms/lock1.jpg)
 
