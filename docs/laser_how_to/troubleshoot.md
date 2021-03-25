@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Troubleshooting
+parent: LASER How To
 nav_order: 999
 ---
 

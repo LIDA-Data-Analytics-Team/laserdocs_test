@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VRE Patching Schedule
+parent: LASER Info
 nav_order: 11
 ---
 

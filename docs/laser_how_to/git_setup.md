@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Using Git
+parent: LASER How To
 nav_order: 7
 ---
 

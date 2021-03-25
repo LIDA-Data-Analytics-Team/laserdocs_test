@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Using Azure SQL Server
+parent: LASER How To
 nav_order: 8
 ---
 

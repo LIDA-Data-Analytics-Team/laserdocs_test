@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Using Python
+parent: LASER How To
 nav_order: 6
 ---
 

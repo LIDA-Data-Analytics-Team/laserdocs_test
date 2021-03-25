@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Project Storage
+parent: LASER How To
 nav_order: 3
 ---
 

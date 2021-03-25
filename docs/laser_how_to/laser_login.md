@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Connect to LASER
+parent: LASER How To
 nav_order: 2
 
 video_title: "LASER Demo: Connect to LASER"

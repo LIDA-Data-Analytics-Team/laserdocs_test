@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Install Software
+parent: LASER How To
 nav_order: 4
 ---
 
