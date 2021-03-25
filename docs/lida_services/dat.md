@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Data Analytics Team
+parent: LIDA Services
 nav_order: 0
 ---
 

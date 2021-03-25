@@ -2,7 +2,7 @@
 layout: page
 title: Install Software
 parent: LASER How To
-nav_order: 4
+nav_order: 3
 ---
 
 ## Install Software via Software Center

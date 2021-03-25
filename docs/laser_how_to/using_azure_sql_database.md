@@ -2,7 +2,7 @@
 layout: default
 title: Using Azure SQL Server
 parent: LASER How To
-nav_order: 8
+nav_order: 7
 ---
 
 ## Connect to database via SSMS

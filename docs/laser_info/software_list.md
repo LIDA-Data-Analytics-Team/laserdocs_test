@@ -2,7 +2,7 @@
 layout: default
 title: "VRE Software List"
 parent: LASER Info
-nav_order: 9
+nav_order: 2
 ---
 
 ## Software provision

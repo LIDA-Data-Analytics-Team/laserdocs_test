@@ -2,7 +2,7 @@
 layout: default
 title: Backup & Retention
 parent: LASER Info
-nav_order: 10
+nav_order: 3
 ---
 
 ## LASER Backups 

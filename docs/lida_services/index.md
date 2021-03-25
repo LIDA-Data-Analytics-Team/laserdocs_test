@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LASER Info
-nav_order: 2
+title: LIDA Services
+nav_order: 1
 has_children: true
 ---

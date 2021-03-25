@@ -2,7 +2,7 @@
 layout: page
 title: Using Python
 parent: LASER How To
-nav_order: 6
+nav_order: 5
 ---
 
 ## Using Python in LASER

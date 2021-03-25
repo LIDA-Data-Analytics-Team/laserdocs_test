@@ -2,7 +2,7 @@
 layout: default
 title: "Installing R Packages"
 parent: LASER How To
-nav_order: 5
+nav_order: 4
 ---
 ## R Packages in LASER
 

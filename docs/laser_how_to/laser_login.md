@@ -2,7 +2,7 @@
 layout: default
 title: Connect to LASER
 parent: LASER How To
-nav_order: 2
+nav_order: 1
 
 video_title: "LASER Demo: Connect to LASER"
 video_description: "Logging into your LASER VRE"
