@@ -2,7 +2,7 @@
 layout: default
 title: Safe Rooms
 parent: LIDA Services
-nav_order: 2
+nav_order: 3
 ---
 
 ## Safe Rooms 
@@ -21,9 +21,9 @@ Both the LIDA Reception staff and the Data Services Team can book safe rooms.  T
 - ​Room 11.83	
 
 Photo ID will be requested to evidence user identity. The type of ID may vary depending on the user:
-- Internal (University members) users 
+- Internal (University members) users  
 	– Staff card
-- External users 
+- External users  
 	– Driving license
 	- passport
 	- other recognised national identification card

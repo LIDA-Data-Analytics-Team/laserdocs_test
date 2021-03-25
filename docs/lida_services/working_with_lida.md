@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Working with LIDA
 parent: LIDA Services
 nav_order: 1
 ---

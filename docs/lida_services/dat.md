@@ -2,7 +2,7 @@
 layout: default
 title: Data Analytics Team
 parent: LIDA Services
-nav_order: 0
+nav_order: 2
 ---
 
 ## Data Analytics Team 

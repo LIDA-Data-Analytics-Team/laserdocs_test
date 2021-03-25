@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LASER
+title: What is LASER?
 parent: LASER Info
 nav_order: 1
 ---
