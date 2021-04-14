@@ -39,3 +39,15 @@ You should now see the R miniCRAN repository mapped to R: drive.
 ### Anaconda Navigator slow (in online mode)
 
 Anaconda Navigator may be slow to load initially. Follow steps in our [Python guide](./using_python.html#anaconda-navigator-offline-mode) to enable offline mode, which will improve performance.
+
+### I'm seeing a message saying "You cannot log on using a smart card"
+
+If you try to log on to LASER at laser.leeds.ac.uk on a Google Chrome browser, you **may** see the following message:
+<br>
+    ![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
+<br>
+This problem can be solved by logging in via a "New incognito window", which can be opened by pressing Ctrl + Shift + n in a Chrome browser or 
+- Click on the three vertical dots at the top right of the browser window
+- Click on New incognito window
+<br>
+    ![incognito_window.png](../../images/troubleshoot/incognito_window.png)
