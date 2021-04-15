@@ -46,7 +46,7 @@ If you try to log on to LASER at laser.leeds.ac.uk on a Google Chrome browser, y
 
 	![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
 
-This problem can be solved by logging in via a "New incognito window", which can be opened by pressing Ctrl + Shift + n in a Chrome browser or 
+This problem can be solved by logging in via a "New incognito window", which can be opened by pressing Ctrl + Shift + N in a Chrome browser or 
 - Click on the three vertical dots at the top right of the browser window
 - Click on New incognito window
 
