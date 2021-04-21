@@ -2,6 +2,7 @@
 layout: default
 title: Monitor VRE Costs
 parent: Azure Portal
+grand_parent: LASER How To
 nav_order: 4
 ---
 

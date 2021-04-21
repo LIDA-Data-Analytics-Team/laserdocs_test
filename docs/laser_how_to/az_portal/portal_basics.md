@@ -2,6 +2,7 @@
 layout: default
 title: Portal Basics
 parent: Azure Portal
+grand_parent: LASER How To
 nav_order: 2
 ---
 
