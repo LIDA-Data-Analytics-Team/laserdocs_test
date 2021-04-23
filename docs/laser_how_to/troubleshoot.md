@@ -42,7 +42,7 @@ Anaconda Navigator may be slow to load initially. Follow steps in our [Python gu
 
 ### I'm seeing a message saying "You cannot log on using a smart card"
 
-If you try to log on to LASER at laser.leeds.ac.uk on a Google Chrome browser, you **may** see the following message:
+If you try to log on to LASER at laser.leeds.ac.uk on a Google Chrome browser, you **may** see the following message
 
 	![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
 
