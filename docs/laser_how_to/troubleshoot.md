@@ -44,7 +44,7 @@ Anaconda Navigator may be slow to load initially. Follow steps in our [Python gu
 
 If you try to log on to LASER at laser.leeds.ac.uk on a Google Chrome browser, you **may** see the following message
 
-	![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
+![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
 
 This problem can be solved by logging in via a "New incognito window", which can be opened by pressing Ctrl + Shift + N in a Chrome browser or 
 - Click on the three vertical dots at the top right of the browser window
