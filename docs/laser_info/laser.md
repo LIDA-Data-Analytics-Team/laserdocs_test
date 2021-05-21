@@ -33,20 +33,17 @@ nav_order: 1
     <td style="text-align: center">Software</td>
     <td style="text-align: center"; colspan=2>Managed</td>
   </tr>
-    </tr>
-    <tr>
+  <tr>
     <td style="text-align: center">Data Transfer</td>
     <td style="text-align: center">PI (or delegate)</td>
     <td style="text-align: center">DAT</td>
   </tr>
-    </tr>
-    <tr>
+  <tr>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
   </tr>
-    </tr>
-    <tr>
+  <tr>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
