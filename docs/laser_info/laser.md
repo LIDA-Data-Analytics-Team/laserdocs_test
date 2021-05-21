@@ -39,11 +39,26 @@ nav_order: 1
     <td style="text-align: center">DAT</td>
   </tr>
   <tr>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">Limitation</td>
+    <td style="text-align: center"; colspan=2>No copy/paste, No email, No print, No local save, No internet access</td>
   </tr>
   <tr>
+    <td style="text-align: center">Network Protection</td>
+    <td style="text-align: center"; colspan=2>Project-level isolated network</td>
+  </tr>
+    <tr>
+    <td style="text-align: center">Encryption</td>
+    <td style="text-align: center"; colspan=2>At rest and in transit</td>
+  </tr>
+    <tr>
+    <td style="text-align: center"; colspan=3>Physical Controls</td>
+  </tr>
+    <tr>
+    <td style="text-align: center">Access Point</td>
+    <td style="text-align: center">Shared secure office</td>
+    <td style="text-align: center">Project safe room or enhanced shared secure office</td>
+  </tr>
+    <tr>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
