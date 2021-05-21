@@ -7,6 +7,55 @@ nav_order: 1
 
 ## Leeds Analytic Secure Environment for Research 
 
+### Technical controls and services based on risk  
+<table class="tg">
+<thead>
+  <tr>
+    <th></th>
+    <th>Tier 3</th>
+    <th>Tier 4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan=3; style="text-align: center">Technical Controls</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">User Device</td>
+    <td style="text-align: center">Managed</td>
+    <td style="text-align: center">Thin client / Managed</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">Authentication</td>
+    <td style="text-align: center"; colspan=2>Dual (MFA)</td>
+  </tr>
+    <tr>
+    <td style="text-align: center">Software</td>
+    <td style="text-align: center"; colspan=2>Managed</td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="text-align: center">Data Transfer</td>
+    <td style="text-align: center">PI (or delegate)</td>
+    <td style="text-align: center">DAT</td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+  </tr>
+</tbody>
+</table>
+
+![image](https://user-images.githubusercontent.com/25124181/119112449-00c9ae00-ba1c-11eb-81a9-d6d890570bcc.png)
+
 LASER offers the combination of meeting the highest standards of security for data analytics, of course ensuring ISO27001 and NHS Data Security and Protection Toolkit compliance with the fexibility to enable constant agility in design and function; alongside scalability depending on the researcher need. This platform is supported through a commitment backed up by both LIDA and the University of Leeds IT Service to ensure high quality service wrap around to maximise ease and efficiency of time for researchers.
 
 ### What is a Virtual Research Environment? 
