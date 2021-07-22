@@ -6,7 +6,6 @@ nav_order: 6
 ---
 
 ## Azure budget alert emails
-{:.no_toc}
 
 ## Why am I getting this email?
 You may receive emails from “*Microsoft Azure azure-noreply@microsoft.com*" with a subject similar to “**Important notice: You have an Azure budget alert for [*your VRE name*]**”.
