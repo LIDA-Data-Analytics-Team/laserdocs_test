@@ -5,12 +5,12 @@ parent: LASER How To
 nav_order: 6
 ---
 
-## Azure budget alert emails
+# Azure budget alert emails
 
 ## Why am I getting this email?
 You may receive emails from “*Microsoft Azure azure-noreply*" with a subject similar to “**Important notice: You have an Azure budget alert for [*your VRE name*]**”.
 
-When your LASER VRE was built, it was assigned a monthly budget and an annual budget.  Those budgets were based on the costs we calculated and agreed with you.  You will receive budget alert emails when your VRE has accrued costs amounting to 25%, 50%, 75% and 90% of your monthly budget and of your annual budget.
+When your LASER VRE was built, it was assigned a monthly budget and an annual budget.  Those budgets were based on the costs we calculated and agreed with you.  Please read the [LIDA Research Management Process](https://lida-data-analytics-team.github.io/laserdocs/docs/lida_services/RMP.html#lida-research-management-process) page for more information on costs.  You will receive budget alert emails when your VRE has accrued costs amounting to 25%, 50%, 75% and 90% of your monthly budget and of your annual budget.
 The budget alert emails will be sent to the research project principal investigator and anyone else they have nominated to receive the emails.
 
 ## Content of the email
