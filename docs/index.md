@@ -1,9 +1,8 @@
 ---
 layout: default
-title: SEED Info
-nav_order: 1
-has_children: false
-nav_exclude: true
+title: Mermaid
+nav_order: 999
+has_children: true
 ---
 
-index
+Mermaid ting
