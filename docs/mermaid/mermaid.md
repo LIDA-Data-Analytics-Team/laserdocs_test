@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Mermaid
-nav_order: 999
-has_children: false
+title: Mermaid Test
+parent: Mermaid
+nav_order: 1
 ---
 
 <header>
