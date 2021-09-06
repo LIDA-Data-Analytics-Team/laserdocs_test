@@ -5,10 +5,6 @@ parent: Mermaid
 nav_order: 1
 ---
 
-<header>
-  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js">
-</header>
-
 # Flowcharts - Basic Syntax
 
 **Edit this Page** [![N|Solid](img/GitHub-Mark-32px.png)](https://github.com/mermaid-js/mermaid/blob/develop/docs/flowchart.md)

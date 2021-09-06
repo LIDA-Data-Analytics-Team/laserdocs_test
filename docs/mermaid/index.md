@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mermaid
-nav_order: 999
+nav_order: 7
 has_children: true
 ---
 
