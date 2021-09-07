@@ -3,7 +3,10 @@ layout: default
 title: Mermaid Test
 parent: Mermaid
 nav_order: 1
+mermaid: true
 ---
+
+<div class="mermaid">graph TB;A-->B;</div>
 
 ```html
 <header>
