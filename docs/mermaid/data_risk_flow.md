@@ -37,6 +37,6 @@ graph TD
   LikelyAttackers --> |Yes| Tier4
   LowConsequence --> |No| LikelyAttackers
   LowConsequence --> |Yes| TrivialConsequence{Do you have <br/> high confidence that the commercial, legal <br/> reputational or political consequences of <br/>unauthorised disclosure of this data <br/> will be trivial?}
-  TrivialConsequence --> |No| Tier2
+  TrivialConsequence --> |No| Tier2[Tier 2]
   TrivialConsequence --> |Yes| Tier1
 </div>
