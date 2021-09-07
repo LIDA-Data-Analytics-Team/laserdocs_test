@@ -12,6 +12,8 @@ nav_order: 2
 
 # Data Risk Classification Flow
 
+Scroll down and zoom in...
+
 <div class="mermaid">
 flowchart TD;
 	Start[Start] --> Generate{"Will the research generate (including by <br/> selecting, sorting or combining) any <br/> personal data"};
