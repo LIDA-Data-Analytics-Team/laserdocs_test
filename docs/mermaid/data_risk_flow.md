@@ -15,6 +15,7 @@ nav_order: 2
 <div class="mermaid">
 flowchart TD;
     Start --> Stop;
+	Start[Start] --> Generate{"Will the research generate (including by <br/> selecting, sorting or combining) any <br/> personal data"};
 </div>
 
 <div class="mermaid">
