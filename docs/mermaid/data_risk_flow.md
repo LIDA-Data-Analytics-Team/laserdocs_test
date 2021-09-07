@@ -18,7 +18,7 @@ flowchart TD;
 </div>
 
 <div class="mermaid">
-flowchart TD
+flowchart TD;
   Start[Start] --> Generate{"Will the research generate (including by <br/> selecting, sorting or combining) any <br/> personal data"};
   Generate --> |No| Input{Will any project input be personal data};
   Generate --> |Yes| Threat{Would disclosure pose <br/> a substantial threat to the <br/> personal safety, health or <br/> security of the data subjects?};
