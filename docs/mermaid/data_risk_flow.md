@@ -14,8 +14,7 @@ nav_order: 2
 
 <div class="mermaid">
 flowchart TD
-	a[A] --> b[B]
-	b --> c[C]
+    Start --> Stop
 </div>
 
 <div class="mermaid">
