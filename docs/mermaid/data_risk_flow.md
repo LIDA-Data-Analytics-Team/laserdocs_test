@@ -14,8 +14,8 @@ nav_order: 2
 
 <div class="mermaid">
 graph TD
-a[A] --> b[B]
-b --> c[C]
+	a[A] --> b[B]
+	b --> c[C]
 </div>
 
 <div class="mermaid">
