@@ -14,6 +14,12 @@ nav_order: 2
 
 <div class="mermaid">
 graph TD
+a[A] --> b[B]
+b --> c[C]
+</div>
+
+<div class="mermaid">
+graph TD
   Start[Start] --> Generate{"Will the research generate (including by <br/> selecting, sorting or combining) any <br/> personal data"}
   Generate --> |No| Input{Will any project input be personal data}
   Generate --> |Yes| Threat{Would disclosure pose <br/> a substantial threat to the <br/> personal safety, health or <br/> security of the data subjects?}
