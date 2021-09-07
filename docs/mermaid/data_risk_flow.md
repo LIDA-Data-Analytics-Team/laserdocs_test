@@ -12,6 +12,8 @@ nav_order: 2
 
 # Data Risk Classification Flow
 
+![image of data risk flowchart](../../images/mermaid/data_risk_flow.png)
+
 Scroll down and zoom in...
 
 <div class="mermaid">
