@@ -5,9 +5,11 @@ parent: Mermaid
 nav_order: 1
 ---
 
+```html
 <header>
 	<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js">
 </header>
+```
 
 # Flowcharts - Basic Syntax
 
