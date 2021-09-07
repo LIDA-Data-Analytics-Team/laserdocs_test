@@ -14,8 +14,19 @@ nav_order: 2
 
 <div class="mermaid">
 flowchart TD;
-    Start --> Stop;
 	Start[Start] --> Generate{"Will the research generate (including by <br/> selecting, sorting or combining) any <br/> personal data"};
+	Generate --> |No| Input{Will any project input be personal data};
+	Generate --> |Yes| Threat{Would disclosure pose <br/> a substantial threat to the <br/> personal safety, health or <br/> security of the data subjects?};
+	Input --> |No| Commercial{"Will you be working with <br/> commercial-in-confidence information <br/> or private third party intellectual property <br/> or legally or politically sensitive data?"};
+	Input --> |Yes| Public{"Is that personal data legally accessible by <br/> the gerneral public with no restrictions on <br/> use?"};
+	Commercial --> |No| Advantage{Will releasing any of the datasets or results <br/> impact on the competitive advantage <br/> of the research team?};
+	Commercial --> |Yes| LowConsequence{Do you have <br/> high confidence that the commercial, legal <br/> reputational or political consequences of <br/>unauthorised disclosure of this data <br/> will be low?};
+	Advantage --> |No| Tier0[Tier 0];
+	Advantage --> |Yes| Tier1[Tier 1];
+	Threat --> |No| Tier3[Tier 3];
+	Threat --> |Yes| Tier4[Tier 4];
+	Public --> |No| Pseudonymised{Is that personal data <br/> pseudonymised?};
+	Public --> |Yes| Commercial;
 </div>
 
 <div class="mermaid">
