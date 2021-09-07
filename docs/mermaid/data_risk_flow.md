@@ -40,7 +40,7 @@ flowchart TD;
 	LikelyAttackers --> |No| Tier3;
 	LikelyAttackers --> |Yes| Tier4;
 	LowConsequence_2 --> |No| LikelyAttackers;
-	LowConsequence_2 --> |Yes| Tier2
+	LowConsequence_2 --> |Yes| Tier2;
 	TrivialConsequence --> |No| Tier2;
 	TrivialConsequence --> |Yes| Tier1;
 </div>
