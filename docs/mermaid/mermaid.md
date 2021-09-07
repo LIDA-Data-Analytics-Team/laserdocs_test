@@ -6,13 +6,21 @@ nav_order: 1
 mermaid: true
 ---
 
-<div class="mermaid">graph TB;A-->B;</div>
+<html lang="en">
 
-```html
-<header>
-	<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js">
-</header>
-```
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js">
+  <script>mermaid.initialize({startOnLoad:true});</script>
+</head>
+
+<body>
+  <div class="mermaid">
+    graph 
+      TB;A-->B;
+  </div>
+</body>
+
+</html>
 
 # Flowcharts - Basic Syntax
 
