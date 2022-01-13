@@ -7,7 +7,7 @@ nav_order: 8
 
 ## Shared code between LASER VREs
 
-Subject to sufficient justification and security controls, it is possible to enable code collaboration between VREs via a shared remote repository. If you are interested in enabling this functionality, the PIs of both VREs should contact the (Data Analytics Team)[mailto:dat@leeds.ac.uk] to explain the use case.
+Subject to sufficient justification and security controls, it is possible to enable code collaboration between VREs via a shared remote repository. If you are interested in enabling this functionality, the PIs of both VREs should contact the [Data Analytics Team](mailto:dat@leeds.ac.uk) to explain the use case.
 
 If the request for code collaboration has been granted, the below guide describes how you can create a remote repository and share it between VREs.
 
