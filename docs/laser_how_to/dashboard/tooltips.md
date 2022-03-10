@@ -3,7 +3,7 @@ layout: default
 title: Tooltips
 parent: Dashboard
 grand_parent: LASER How To
-nav_order: 7
+nav_order: 6
 ---
 
 # Tool tips in Power BI 

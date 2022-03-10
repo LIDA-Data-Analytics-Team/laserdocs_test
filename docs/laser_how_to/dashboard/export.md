@@ -3,14 +3,10 @@ layout: default
 title: Export
 parent: Dashboard
 grand_parent: LASER How To
-nav_order: 8
+nav_order: 7
 ---
 
 # How to export the Power Bi Report 
-{:.no_toc}
-
-* seed list
-{:toc}
 
 It is possible to export the report data, select the Export option at the top of the report.
 
