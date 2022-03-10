@@ -3,7 +3,7 @@ layout: default
 title: 
 parent: Dashboard
 grand_parent: LASER How To
-nav_exclude: true
+nav_order: 2
 ---
 
 # How to access LASER Power BI Dashboard
