@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Access the Dashboard
+title: Access
 parent: Dashboard
 grand_parent: LASER How To
 nav_order: 2
