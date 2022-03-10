@@ -29,11 +29,11 @@ By default, every visual in each Power Bi report can be viewed in Full Screen by
 
 Click on Reset to Default to go back to the default view for the report. This is helpful when you want to rest the entire report to its default state.
 
-![Default View](../../../images/dashboard/dashboard_navigation_default.png)
+![Default View](../../../images/dashboard/dashboard_navigation_reset_to_default.png)
 
 You will be prompted with the following message, select Reset to complete the process.
 
-![Default View Confirmation](../../../images/dashboard/dashboard_navigation_default_confirm.png)
+![Default View Confirmation](../../../images/dashboard/dashboard_navigation_reset_to_default_confirm.png)
 
 ## Add to Favorites
 

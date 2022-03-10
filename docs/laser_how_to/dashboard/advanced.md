@@ -25,7 +25,7 @@ There are various options available. A user can change the report layout to disp
 
 ![Click Personalise](../../../images/dashboard/dashboard_advanced_personalise_columns.png)
 
-A user can go back to default state by clicking [Reset to default](./navigation.html#Reset-to-default).
+A user can go back to default state by clicking [Reset to default](./navigation.html#reset-to-default).
 
 
 ## See what data is available in the model
