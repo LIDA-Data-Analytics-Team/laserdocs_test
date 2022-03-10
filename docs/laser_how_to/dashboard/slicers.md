@@ -7,10 +7,6 @@ nav_order: 5
 ---
 
 # Working with Slicers
-{:.no_toc}
-
-* seed list
-{:toc}
 
 Slicers in Power BI are used for cross filtering data.
 
