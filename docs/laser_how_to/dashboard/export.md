@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Export
+title: Export Data
 parent: Dashboard
 grand_parent: LASER How To
 nav_order: 7
