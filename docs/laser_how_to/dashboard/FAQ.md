@@ -17,7 +17,7 @@ nav_order: 9
 Standard Power BI licenses are free and can currently be added to a user’s Office 365 account within 24hrs. Soon, when the University moves to an updated Office 365 license, they will be part of a user’s standard applications.
 The trial is for an enhanced license version that is a default offering for all users when they first login to Power BI – it’s a Microsoft enticement to purchase a more expensive license. Users of this dashboard won’t need the enhanced license.
 
-## Why is a third export option may be presented at data export?
+## Why can't I select ‘Data with current layout’?
 
 Occasionally a 3rd export option may be presented to you to export the ‘Data with current layout’ however in some instances these options may not be selectable, this has been raised with Microsoft as a possible bug.
 
