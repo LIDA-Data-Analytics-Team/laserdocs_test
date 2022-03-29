@@ -44,7 +44,7 @@ Any files types can be uploaded except empty files.
 Folders cannot be uploaded.  
 There is no max file/job size limit - the system has been tested to upload 30GB.  
 
-![Select Export Files bottom](../../../images/dta/9_select_files_export_top.png)
+![Select Export Files top](../../../images/dta/9_select_files_export_top.png)
 
 |Item|Description|
 |:---:|---|
