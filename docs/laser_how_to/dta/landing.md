@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Landing Page
-parent: Dashboard
+parent: Data Transfer App
 grand_parent: LASER How To
 nav_order: 2
 ---
