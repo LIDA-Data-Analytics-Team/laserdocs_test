@@ -42,7 +42,7 @@ There is no max file/job size limit - the system has been tested to upload 30GB.
 
 ![Select your files to upload](../../../images/dta/4_select_upload.png)
 
-1. Click HERE to open a file selector or drag & drop files.
+1. Click here to open a file selector or drag & drop files.
 
 
 ## Confirm files and submit job
