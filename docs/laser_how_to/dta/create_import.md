@@ -9,7 +9,7 @@ nav_order: 3
 # Create New Import Job
 
 This is the Create New Import page.  
-You have to select an item from the drop-downs when prompted.  
+You have to select an item from the drop-downs when prompted.
 
 	![Create New Import Job top](../../../images/dta/2_new_import_top.png)
 
