@@ -11,7 +11,7 @@ nav_order: 3
 This is the Create New Import page.  
 You have to select an item from the drop-downs when prompted.
 
-	![Create New Import Job top](../../../images/dta/2_new_import_top.png)
+![Create New Import Job top](../../../images/dta/2_new_import_top.png)
 
 1. You should only be presented with Projects you are associated with
 2. You should only be presented with VRE’s associated with the Project you selected
