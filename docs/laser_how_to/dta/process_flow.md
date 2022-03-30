@@ -17,14 +17,6 @@ nav_order: 5
 * seed list
 {:toc}
 
-<div class="mermaid">
-graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-</div>
-
 
 ## Imports
 <div class="mermaid">
@@ -62,35 +54,35 @@ flowchart TB;
 
 ## Exports
 <div class="mermaid">
-graph TB
-    requestor(Requestor<br>action)
-    reviewer(Reviewer<br>action)
-    export_store --> |Biscom/OneDrive/STFP etc.| export[[Export]] 
-    approve_reject --> |Files moved by DTA| export_store
+graph TB;
+    requestor(Requestor<br>action);
+    reviewer(Reviewer<br>action);
+    export_store --> |Biscom/OneDrive/STFP etc.| export[[Export]];
+    approve_reject --> |Files moved by DTA| export_store;
 
-    subgraph VRE
-        project_store[(VRE Project <br> Storage)]
-        project_store --> |Requestor creates files in Export Request Storage| export_request_store
-        export_request_store[(Export Request <br> Storage)] --> create_job(Create New <br> Export Request <br> in DTA)
-        create_job --> |Files copied by DTA| export_review_store[(Export Review <br> Storage)]
-        export_review_store --> review(Review Files) 
-        review --> approve_reject(Approve / Reject <br> files in DTA)
-    end
+    subgraph VRE;
+        project_store[(VRE Project <br> Storage)];
+        project_store --> |Requestor creates files in Export Request Storage| export_request_store;
+        export_request_store[(Export Request <br> Storage)] --> create_job(Create New <br> Export Request <br> in DTA);
+        create_job --> |Files copied by DTA| export_review_store[(Export Review <br> Storage)];
+        export_review_store --> review(Review Files);
+        review --> approve_reject(Approve / Reject <br> files in DTA);
+    end;
 
-    subgraph DTES [Data Transfer Export Server]
-        export_store[(Data Transfer <br> Export Storage)]
-    end
+    subgraph DTES [Data Transfer Export Server];
+        export_store[(Data Transfer <br> Export Storage)];
+    end;
 	
-    style requestor fill:Gold
-	style reviewer fill:lightgreen
-    style export_store fill:LightSkyBlue 
-    style export_review_store fill:LightSkyBlue 
-    style export_request_store fill:LightSkyBlue 
-    style project_store fill:LightSkyBlue
-    style export fill:LightSkyBlue
-    style create_job fill:gold
-    style review fill:lightgreen
-    style approve_reject fill:lightgreen
+    style requestor fill:Gold;
+	style reviewer fill:lightgreen;
+    style export_store fill:LightSkyBlue;
+    style export_review_store fill:LightSkyBlue;
+    style export_request_store fill:LightSkyBlue;
+    style project_store fill:LightSkyBlue;
+    style export fill:LightSkyBlue;
+    style create_job fill:gold;
+    style review fill:lightgreen;
+    style approve_reject fill:lightgreen;
 </div>
 
 
