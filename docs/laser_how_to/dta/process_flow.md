@@ -54,7 +54,7 @@ flowchart TB;
 
 ## Exports
 <div class="mermaid">
-graph TB;
+flowchart TB;
 	subgraph Key;
         requestor(Requestor<br>action);
 	    reviewer(Reviewer<br>action);
