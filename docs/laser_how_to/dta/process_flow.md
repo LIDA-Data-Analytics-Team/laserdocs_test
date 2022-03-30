@@ -65,7 +65,7 @@ flowchart TB;
 
     subgraph VRE;
         project_store[(VRE Project <br> Storage)];
-        project_store --> |Requestor creates files in Export Request Storage| export_request_store;
+        project_store --> |Requestor creates files <br>in Export Request Storage| export_request_store;
         export_request_store[(Export Request <br> Storage)] --> create_job(Create New <br> Export Request <br> in DTA);
         create_job --> |Files copied by DTA| export_review_store[(Export Review <br> Storage)];
         export_review_store --> review(Review Files);
