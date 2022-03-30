@@ -55,8 +55,11 @@ flowchart TB;
 ## Exports
 <div class="mermaid">
 graph TB;
-    requestor(Requestor<br>action);
-    reviewer(Reviewer<br>action);
+	subgraph Key;
+        requestor(Requestor<br>action);
+	    reviewer(Reviewer<br>action);
+	end;
+	
     export_store --> |Biscom/OneDrive/STFP etc.| export[[Export]];
     approve_reject --> |Files moved by DTA| export_store;
 
