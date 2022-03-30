@@ -17,6 +17,14 @@ nav_order: 5
 * seed list
 {:toc}
 
+<div class="mermaid">
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+</div>
+
 
 ## Imports
 <div class="mermaid">
