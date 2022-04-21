@@ -28,7 +28,7 @@ Photo ID will be requested to evidence user identity. The type of ID may vary de
 	- passport
 	- other recognised national identification card
 
-Key fobs are provided to access the safe rooms. These will be signed out by reception staff at the start of each session and you must return to them at the end of the session. A record will be kept of which users access which room and when.
+Key fobs are provided to access the safe rooms. These will be signed out by reception staff at the start of each session and you must return them at the end of the session. A record will be kept of which users access which room and when.
 
 The Data Services Team will send external researchers a copy of the Health and Safety.pdf.  A signed copy of this document must be presented to front desk upon first arrival to LIDA to use the safe room.
 
