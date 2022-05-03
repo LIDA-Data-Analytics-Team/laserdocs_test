@@ -23,6 +23,10 @@ Occasionally a 3rd export option may be presented to you to export the ‘Data w
 
 ![Third Party Option](../../../images/dashboard/dashboard_faq_third_party.png)
 
+## There's a cost discrepancy between Azure Portal & LASER Dashboard
+
+A variance between the LASER Power BI Dashboard costs which come directly from Azure and the monthly IT finance costs may be seen, this is due to discounts and surcharges included in IT Finances calculations as part of a 3rd party supplier contract but not part of the raw Azure costs.
+
 ## For your attention
 
 The following are elements of the current Dashboard that you should be aware of:
