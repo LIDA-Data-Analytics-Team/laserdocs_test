@@ -3,6 +3,7 @@ layout: page
 title: Install Software
 parent: LASER How To
 nav_order: 3
+has_children: true
 ---
 
 ## Install Software via Software Center

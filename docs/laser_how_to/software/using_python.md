@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Using Python
-parent: LASER How To
+parent: Install Software
+grand_parent: LASER How To
 nav_order: 5
 ---
 
@@ -33,7 +34,7 @@ Right-click your new file and select Edit to open the file in Powershell ISE. Yo
 
 Edit the file paths stored in the `source` and `dest` variables, according to the instructions in the file. For example, there is a demo environment on the Python repo that you can sync locally by editing the file paths in the script as follows:
 
-![](../../images/using_python/00-3_edit_robocopy_script.PNG){:width="70%" .mx-auto}
+![](../../../images/using_python/00-3_edit_robocopy_script.PNG){:width="70%" .mx-auto}
 
 Close the file editor. Right-click the file again and select Run with Powershell. This will open a Powershell prompt window and run the script. You'll see information about files being copied. The first time you copy across a conda environment, this will take some time, maybe 30 mins or longer. Future copies will take a few minutes or less, as fewer files will be new or updated with each copy. Once it's finished, the printed output will show you how many files were copied and how long it took. You now have a local copy of your conda environment. Close the Powershell window. 
 
@@ -42,7 +43,7 @@ Close the file editor. Right-click the file again and select Run with Powershell
 - Open Anaconda Prompt (cmd) from the Start menu by typing anaconda in the search bar and selecting it from the results.
 
 <div style="width:600px; margin:0 auto;">
-    <img src="../../images/using_python/01_open_conda.PNG" width=600px alt="01_open_conda.PNG">
+    <img src="../../../images/using_python/01_open_conda.PNG" width=600px alt="01_open_conda.PNG">
 </div>
 
 - If you haven't followed the above steps to sync your conda environment in local storage, activate your conda environment by passing the full path to your environment stored in the Python repo. E.g.:
@@ -53,7 +54,7 @@ Close the file editor. Right-click the file again and select Run with Powershell
 - You should then see the name of your conda environment in the prompt, shown in parentheses where it previously said "base".
 - You can check that the environment contains the software you need by running `conda list`.
 <div style="width:600px; margin:0 auto;">
-    <img src="../../images/using_python/03_list_env.PNG" width=600px alt="03_list_env.PNG">
+    <img src="../../../images/using_python/03_list_env.PNG" width=600px alt="03_list_env.PNG">
 </div>
 
 - Run Python code in the command line using the `python` command, like you normally would.
@@ -78,19 +79,19 @@ Close the file editor. Right-click the file again and select Run with Powershell
 <br>`ipython kernel install --user --name=<env-name>`<br>
 Where `<env-name>` can be replaced with a name of your choice. We recommend you use the same name as your environment, but not the full path (i.e., for environment at P:\_demo\demo_env name your ipython kernel demo_env).
 - You won't need to install a new kernel in future
-- If you want to change Jupyter Notebook's home directory, work through [instructions below](../../using_python.html#change-jupyter-home-directory) before moving to next step.
+- If you want to change Jupyter Notebook's home directory, work through [instructions below](../../../using_python.html#change-jupyter-home-directory) before moving to next step.
 - Type `jupyter notebook` to load Jupyter using your environment.
 - Jupyter Notebook will open.
 - Navigate to a folder where you want to create a new notebook
 - Click New and then select your environment's kernel from the dropdown.
 <div style="width:600px; margin:0 auto;">
-    <img src="../../images/using_python/05_jupyter_kernel.png" width=600px alt="05_jupyter_kernel.png">
+    <img src="../../../images/using_python/05_jupyter_kernel.png" width=600px alt="05_jupyter_kernel.png">
 </div>
 
 - A new notebook will open, which will have access to all the software in your environment.
 - Check your notebook is using the right kernel by looking at the kernel name in the top right.
 <div style="width:600px; margin:0 auto;">
-    <img src="../../images/using_python/06_jupyter_kernel_confirmed.PNG" width=600px alt="06_jupyter_kernel_confirmed.PNG">
+    <img src="../../../images/using_python/06_jupyter_kernel_confirmed.PNG" width=600px alt="06_jupyter_kernel_confirmed.PNG">
 </div>
 
 #### Change Jupyter Home Directory
@@ -110,7 +111,7 @@ The instructions above are simple but will not persist, meaning you must change 
 - This writes a file to `C:\Users\<username>\.jupyter\jupyter_notebook_config.py`.
 
 <div style="width:600px; margin:0 auto;">
-    <img src="../../images/using_python/06-1_jupyter_set_home_dir.png" width=600px alt="06-1_jupyter_set_home_dir.png">
+    <img src="../../../images/using_python/06-1_jupyter_set_home_dir.png" width=600px alt="06-1_jupyter_set_home_dir.png">
 </div>
 
 - Open this file in an editor and search for the `c.NotebookApp.notebook_dir` config setting.
@@ -129,6 +130,6 @@ After loading Anaconda Navigator, go to File > Preferences (shortcut CTRL+P).
 
 Check the box to "Enable offline mode", then select Apply and close the preferences pane.
 
-![](../../images/using_python/01-1_anaconda_navigator.PNG){:width="70%" .mx-auto}
+![](../../../images/using_python/01-1_anaconda_navigator.PNG){:width="70%" .mx-auto}
 
 You should now see "_Working in offline mode_" appear in the top right. Offline mode should persist when you open Anaconda Navigator again.
