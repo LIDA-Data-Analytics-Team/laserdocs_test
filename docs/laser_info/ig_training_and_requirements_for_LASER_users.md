@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 ### Information Governance (IG) Requirement for Access
-To be granted access to LASER and the Virtual Research Environment, some Information Governance requiremnts will need to be met:
+To be granted access to LASER and the Virtual Research Environment (VRE), certain Information Governance requiremnts must be to be met by LASER users:
 
 Users need to complete these IG training modules and send thier certificate of completion to the DAT team - dat@leeds.ac.uk
 - **Data Protection** and   
