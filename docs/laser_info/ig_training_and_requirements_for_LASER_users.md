@@ -1,3 +1,10 @@
+---
+layout: default
+title: What is LASER?
+parent: LASER Info
+nav_order: 5
+---
+
 ### Information Governance (IG) Requirement for Access
 To be granted access to LASER and the Virtual Research Environment, some Information Governance requiremnts will need to be met:
 
