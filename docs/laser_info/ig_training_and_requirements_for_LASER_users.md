@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is LASER?
+title: LASER User IG requiremnents
 parent: LASER Info
 nav_order: 5
 ---
