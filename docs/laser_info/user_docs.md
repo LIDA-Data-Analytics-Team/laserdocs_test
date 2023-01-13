@@ -1,12 +1,12 @@
 ---
 layout: default
-title: LASER User IG Requiremnents
+title: LASER Access Requiremnents
 parent: LASER Info
 nav_order: 5
 ---
 
-# Information Governance (IG) Requirement for LASER Access
-To be granted access to LASER and the Virtual Research Environment (VRE), certain Information Governance requiremnts must be met by LASER users. DAT must be supplied with the following:
+# Requirements for LASER Access
+To be granted access to a Virtual Research Environment (VRE) within LASER, certain Information Governance requiremnts must be met by LASER users. DAT must be supplied with the following:
 
 - [PI approval for access](#pi-approval)
 - [Evidence of data security training](#data-security-training)
