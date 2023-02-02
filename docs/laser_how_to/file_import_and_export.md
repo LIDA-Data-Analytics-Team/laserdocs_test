@@ -27,11 +27,11 @@ The following should be included/highligfhted in the file export request.
  - the source and type of the file to be imported  
 
 It may be necessary to include additional information in order to ascertain compliance to data risk management. Example questions include:  
-    - What does each file contain?  
-    - What data, if any, is contained within each file?  
-    - From where was it sourced?  
-    - What risk classification is this data?  
-    - Has this been captured by the data management plan?  
+   - What does each file contain?  
+   - What data, if any, is contained within each file?  
+   - From where was it sourced?  
+   - What risk classification is this data?  
+   - Has this been captured by the data management plan?  
 
 As a resposnse to the file import email, the DAT team will set up a Biscom SFT for a secure file transfer into your VRE within LASER.
 The data sender will receive an automated email containing an invitation link to Biscom. The data sender can also log into Biscom through [BISCOM SFT](https://laser-sft.leeds.ac.uk/sft) 
