@@ -26,7 +26,7 @@ The following should be included/highligfhted in the file export request.
  - the name and email address of the data sender
  - the source and type of the file to be imported  
 
-It may be necessary to include additional information in order to ascertain compliance to data risk management. Example questions include:
+It may be necessary to include additional information in order to ascertain compliance to data risk management. Example questions include:  
     - What does each file contain?
     - What data, if any, is contained within each file?
     - From where was it sourced?
