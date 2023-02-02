@@ -9,16 +9,17 @@ nav_order: 1.1
 {:.no_toc}
 
 The University of Leeds's secure file transfer platform, [BISCOM SFT,](https://laser-sft.leeds.ac.uk/sft) is the primary means of sensitive file transfer in and out of LASER. 
-Although circumstance may dictate that other means are used, for example NHS policy is to use their own SFT and nothing else. 
+Although circumstance may dictate that other means are used, for example NHS policy is to use their own SFT and nothing else.  
+
 For Tier 3 sensitivity and above a secure transfer mechanism must be used, ie not email attachments or DropBox etc.
 
 * seed list
 {:toc}
 
-Send a file transfer request to the DAT group inbox ‘dat@leeds.ac.uk’ to import files into or export files from a VRE within LASER.
+For a file transfer request, send a file an email to the DAT group inbox ‘dat@leeds.ac.uk’, for file import into or file export from a VRE within LASER.
 
 
-### **For file import**
+### For file import
 
 Send an email to the DAT inbox with a request for a file import to a VRE, mentioning the project name or code in the email subject.  
 The following should be included/highligfhted in the file export request.
@@ -40,10 +41,10 @@ When they login, they'll see a secure message, please reply to the secure messag
 *If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page).* 
 
 
-***None sentivive files such as programming language scripts or codes etc can be directly sent to the DAT inbox with the information above for file import into the VRE***
+***Some none sentivive files such as programming language scripts or codes etc can be directly sent to the DAT inbox with the information above for file import into the VRE***
 
 
-### **For file Export**
+### For file Export
 
 Send an email to the DAT inbox with a file export request, mentioning the project name or code in the email subject.  
 The following should be included/highligfhted in the file export request.
