@@ -19,7 +19,7 @@ For Tier 3 sensitivity and above a secure transfer mechanism must be used, ie no
 For a file transfer request, send a file an email to the DAT group inbox ‘dat@leeds.ac.uk’, for file import into or file export from a VRE within LASER.
 
 
-### For file import
+### Data/file Import
 
 Send an email to the DAT inbox with a request for a file import to a VRE, mentioning the project name or code in the email subject.  
 The following should be included/highligfhted in the file export request.
@@ -44,7 +44,7 @@ _If the data sender is using Biscom for the first time with us, they will have t
 ***Some none sentivive files such as programming language scripts or codes etc can be directly sent to the DAT inbox with the information above for file import into the VRE***
 
 
-### For file Export
+### Data/file Export
 
 Send an email to the DAT inbox with a file export request, mentioning the project name or code in the email subject.  
 The following should be included/highligfhted in the file export request.
