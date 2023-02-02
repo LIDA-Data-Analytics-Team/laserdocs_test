@@ -34,7 +34,7 @@ It may be necessary to include additional information in order to ascertain comp
    - Has this been captured by the data management plan?  
 
 As a resposnse to the file import email, the DAT team will set up a Biscom SFT for a secure file transfer into your VRE within LASER.
-The data sender will receive an automated email containing an invitation link to Biscom. The data sender can also log into Biscom through [BISCOM SFT](https://laser-sft.leeds.ac.uk/sft) 
+The data sender will receive an automated email containing an invitation link to Biscom. The data sender can also log into Biscom through [BISCOM SFT.](https://laser-sft.leeds.ac.uk/sft) 
 When they login, they'll see a secure message, please reply to the secure message with the file attached. 
 
 If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page). 
@@ -59,7 +59,7 @@ It may be necessary to include additional information in order to ascertain comp
 
 
 As a resposnse to the file export reuest email, DAT will send the file using Biscom SFT to the email address of the file reciepient.
-The file recipeint will receive an automated email containing an invitation link to downlaod the file in Biscom. The data recipeint can also log into Biscom through [BISCOM SFT](https://laser-sft.leeds.ac.uk/sft) 
+The file recipeint will receive an automated email containing an invitation link to downlaod the file in Biscom. The data recipeint can also log into Biscom through [BISCOM SFT.](https://laser-sft.leeds.ac.uk/sft) 
 When they login, they'll see a secure message,and the requested file attached, download th file from there.
 
 If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page). 
