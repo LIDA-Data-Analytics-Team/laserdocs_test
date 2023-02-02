@@ -20,7 +20,8 @@ Send a file transfer request to the DAT group inbox ‘dat@leeds.ac.uk’ to imp
 
 ### **For file import**
 
-Send an email to the DAT inbox with a request for a file import to a VRE, mentioning the following in the email
+Send an email to the DAT inbox with a request for a file import to a VRE, mentioning the project name or code in the email subject.  
+The following should be included/highligfhted in the file export request.
  - the name and or project code of the VRE 
  - the name and email address of the data sender
  - the source and type of the file to be imported  
@@ -44,8 +45,8 @@ If the data sender is using Biscom for the first time with us, they will have to
 
 ### **For file Export**
 
-Send an email to the DAT inbox with a file export request, mentioning the project name or code in the email email subject.
-The following should be included highligfhted in the file export request.
+Send an email to the DAT inbox with a file export request, mentioning the project name or code in the email subject.  
+The following should be included/highligfhted in the file export request.
 - the name and or project code of the VRE 
 - the name and email address of the file recipient
 - the name and location of the file within the VRE e.g. N:\Import\2023\00\00  
