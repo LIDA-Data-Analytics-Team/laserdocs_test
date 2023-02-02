@@ -27,7 +27,7 @@ When they login, they'll see a secure message, please reply to the secure messag
 If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page). 
 
 
-**None sentivive files such as programming language scripts or codes etc can be directly sent to the DAT inbox with the information above for file import into the VRE**
+***None sentivive files such as programming language scripts or codes etc can be directly sent to the DAT inbox with the information above for file import into the VRE***
 
 
 **For file Export**
