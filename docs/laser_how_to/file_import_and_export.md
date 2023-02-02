@@ -8,7 +8,7 @@ nav_order: 1.1
 # How to import or export files from LASER
 {:.no_toc}
 
-The University of Leeds's secure file transfer platform, BISCOM SFT is the primary means of sensitive file transfer in and out of LASER. 
+The University of Leeds's secure file transfer platform, [BISCOM SFT,](https://laser-sft.leeds.ac.uk/sft) is the primary means of sensitive file transfer in and out of LASER. 
 Although circumstance may dictate that other means are used, for example NHS policy is to use their own SFT and nothing else. 
 For Tier 3 sensitivity and above a secure transfer mechanism must be used, ie not email attachments or DropBox etc.
 
@@ -58,7 +58,7 @@ It may be necessary to include additional information in order to ascertain comp
    - What measures have been taken to minimise disclosure risk?  
 
 
-As a resposnse to the file export reuest email, DAT will send the file using Biscom SFT to the email address of the file reciepient.
+As a response to the file export request email, DAT will send the file using Biscom SFT to the email address of the file reciepient.
 The file recipeint will receive an automated email containing an invitation link to downlaod the file in Biscom. The data recipeint can also log into Biscom through [BISCOM SFT.](https://laser-sft.leeds.ac.uk/sft) 
 When they login, they'll see a secure message,and the requested file attached, download th file from there.
 
