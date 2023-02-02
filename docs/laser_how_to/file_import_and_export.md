@@ -2,7 +2,7 @@
 layout: default
 title: How to import or export files from LASER
 parent: LASER How To
-nav_order: 6.1
+nav_order: 1.1
 ---
 
 # How to import or export files from LASER
