@@ -1,11 +1,11 @@
 ## How to import or export files from LASER
 
 The University of Leeds's secure file transfer platform, BISCOM SFT is the primary means of sensitive file transfer in and out of LASER. 
-Circumstance may dictate that other means are used, for example NHS policy is to use their own SFT and nothing else. 
+Although circumstance may dictate that other means are used, for example NHS policy is to use their own SFT and nothing else. 
 For Tier 3 sensitivity and above a secure transfer mechanism must be used, ie not email attachments or DropBox etc.
 
 
-Send a request to the DAT group inbox ‘dat@leeds.ac.uk’, to import files into or export files from a VRE within LASER.
+Send a file transfer request to the DAT group inbox ‘dat@leeds.ac.uk’ to import files into or export files from a VRE within LASER.
 
 ### **For file import**
 
@@ -14,7 +14,7 @@ Send an email to the DAT inbox with a request for a file import to a VRE, mentio
  - the name and email address of the data sender
  - the source and type of the file to be imported  
 
-It may be necessary to include additional information in order to ascertain compliance. Example questions include:
+It may be necessary to include additional information in order to ascertain compliance to data risk management. Example questions include:
     - What does each file contain?
     - What data, if any, is contained within each file?
     - From where was it sourced?
@@ -39,7 +39,7 @@ The following should be included highligfhted in the file export request.
 - the name and email address of the file recipient
 - the name and location of the file within the VRE e.g. N:\Import\2023\00\00  
 
-It may be necessary to include additional information in order to ascertain compliance. Example questions include:  
+It may be necessary to include additional information in order to ascertain complianceto data risk management. Example questions include:  
    - What does this file contain?  
    - What is the source data for this file?  
    - How was this file generated?  
