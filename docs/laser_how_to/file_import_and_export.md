@@ -36,12 +36,12 @@ Send an email to the DAT inbox with a file export request, mentioning the projec
 The following should be included highligfhted in the file export request.
 - the name and or project code of the VRE 
 - the name and email address of the file recipient
-- the name and location of the file within the VRE e.g. N:\Import\2023\00\00
-It may be necessary to include additional information in order to ascertain compliance. Example questions include:
- -What does this file contain?
- -What is the source data for this file?
- -How was this file generated?
- -What measures have been taken to minimise disclosure risk?
+- the name and location of the file within the VRE e.g. N:\Import\2023\00\00  
+It may be necessary to include additional information in order to ascertain compliance. Example questions include:  
+ -What does this file contain?  
+ -What is the source data for this file?  
+ -How was this file generated?  
+ -What measures have been taken to minimise disclosure risk?  
 
 
 As a resposnse to the file export reuest email, DAT will send the file using Biscom SFT to the email address of the file reciepient.
