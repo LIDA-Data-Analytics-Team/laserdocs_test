@@ -13,11 +13,10 @@ Although circumstance may dictate that other means are used, for example NHS pol
 
 For Tier 3 sensitivity and above a secure transfer mechanism must be used, ie not email attachments or DropBox etc.
 
-* seed list
-{:toc}
 
 For a file transfer request, send a file an email to the DAT group inbox ‘dat@leeds.ac.uk’, for file import into or file export from a VRE within LASER.
-
+* seed list
+{:toc}
 
 ### Data/file Import
 
