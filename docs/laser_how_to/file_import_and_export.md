@@ -10,9 +10,9 @@ Send a request to the DAT group inbox ‘dat@leeds.ac.uk’, to import files int
 ### **For file import**
 
 Send an email to the DAT inbox with a request for a file import to a VRE, mentioning the following in the email
-- the name and or project code of the VRE 
-- the name and email address of the data sender
-- the source and type of the file to be imported  
+ - the name and or project code of the VRE 
+ - the name and email address of the data sender
+ - the source and type of the file to be imported  
 It may be necessary to include additional information in order to ascertain compliance. Example questions include:
   - What does each file contain?
   - What data, if any, is contained within each file?
