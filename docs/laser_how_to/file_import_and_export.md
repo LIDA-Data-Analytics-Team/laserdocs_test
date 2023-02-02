@@ -50,7 +50,7 @@ Send an email to the DAT inbox with a file export request, mentioning the projec
 The following should be included/highligfhted in the file export request.
 - the name and or project code of the VRE 
 - the name and email address of the file recipient
-- the name and location of the file within the VRE e.g. `**N:\Import\2023\00\00**`  
+- the name and location of the file within the VRE e.g. **`N:\Import\2023\00\00`**  
 
 It may be necessary to include additional information in order to ascertain complianceto data risk management. Example questions include:  
    - What does this file contain?  
