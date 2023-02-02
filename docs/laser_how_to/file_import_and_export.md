@@ -38,7 +38,7 @@ As a resposnse to the file import email, the DAT team will set up a Biscom SFT f
 The data sender will receive an automated email containing an invitation link to Biscom. The data sender can also log into Biscom through [BISCOM SFT.](https://laser-sft.leeds.ac.uk/sft) 
 When they login, they'll see a secure message, please reply to the secure message with the file attached. 
 
-*If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page).* 
+_*If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page).*_ 
 
 
 ***Some none sentivive files such as programming language scripts or codes etc can be directly sent to the DAT inbox with the information above for file import into the VRE***
@@ -63,4 +63,4 @@ As a response to the file export request email, DAT will send the file using Bis
 The file recipeint will receive an automated email containing an invitation link to downlaod the file in Biscom. The data recipeint can also log into Biscom through [BISCOM SFT.](https://laser-sft.leeds.ac.uk/sft) 
 When they login, they'll see a secure message,and the requested file attached, download th file from there.
 
-*If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page).* 
+_*If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page).*_ 
