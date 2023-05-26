@@ -9,7 +9,7 @@ nav_order: 2.1
 
 The cost of LASER VRE is broken down into three distinct components:
 
-- **Item 1a**: Provision of Azure Resources
+- **Item 1a**: Azure Resources Provision
 - **Item 1b**: DAT Staffing Support
 - **Item 2**: ITS Support Charge
 - **Item 3**: Fixed Infrastructure Costs
