@@ -1,3 +1,10 @@
+---
+layout: default
+title: What is LASER?
+parent: LASER Info
+nav_order: 2.1
+---
+
 # LASER Cost Estimate and Underlying Assumptions
 
 The cost of LASER VRE is broken down into three distinct components:
