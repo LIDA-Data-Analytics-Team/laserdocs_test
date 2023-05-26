@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is LASER?
+title: VRE cost estimates and assumptions?
 parent: LASER Info
 nav_order: 2.1
 ---
