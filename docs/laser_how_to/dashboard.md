@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Dashboard
+title: LASER Dashboard
 parent: LASER How To
 nav_order: 2
-has_children: true
 ---
 
 # LASER Dashboard
