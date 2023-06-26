@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 # LASER Dashboard
+{:.no_toc}
 
 The LASER Dashboard has been created to assist with managing and monitoring costs and activity in LASER.  
 
