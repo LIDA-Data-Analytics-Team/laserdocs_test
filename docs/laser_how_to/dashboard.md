@@ -13,11 +13,9 @@ You can navigate to the LASER Dashboard by following this link:
 [LASER Dashboard](https://app.powerbi.com/Redirect?action=OpenApp&appId=38c333ec-3a1d-4b9f-8fdc-3b719c3f0055&ctid=bdeaeda8-c81d-45ce-863e-5232a535b7cb)  
 
 Information on each report can be found below.  
-[Project Costs](#project-costs)  
-[Resource Costs](#resoure-costs)  
-[Resources](#resources)  
-[VM Activity](#vm-activity)  
-[User Information](#user-information)  
+
+* seed list
+{:toc}
 
 The underlying **data is refreshed each morning starting at 07:00** and the Power BI report pulls this data into the LASER Dashboard model at 09:00 each morning. 
 
@@ -39,6 +37,8 @@ Common across all reports are a set of slicers at the top of the page that allow
 Table **columns can be expanded** by selecting _'Drill on: Columns'_ and then _'Expand all down one level in the hierarchy'_ from the header icons that appear when hovering the mouse over the table.  
 
 Tables can be **sorted** by any column. Multiple columns can be chosen for sorting by holding Shift when you click.  
+
+All changes made to filters, slicers, drill downs, sorts etc. can be reset to default by clicking on the **'Reset'** button at the top right of the report.  
 
 The LASER Dashboard consists of the following suite of reports:  
 
