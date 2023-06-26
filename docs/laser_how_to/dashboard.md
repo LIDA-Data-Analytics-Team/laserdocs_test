@@ -33,7 +33,7 @@ Common across all reports are a set of slicers at the top of the page that allow
 - **Resource Group**: Each VRE exists within a _Resource Group_ in Azure. If you have multiple VREs under the same project (eg a Tier 4 and a Tier 3 VRE) they will each exist within a _Resource Group_ with a distinct name. You can find out the names of your VRE _Resource Groups_ from the LASER Storefront under the Description of each VM or by asking a member of the DAT  
 - **Budget Code**: Each _Resource_ is tagged with a budget code, against which the costs of that resource will be charged. Some VREs may have multiple Budget Codes, though a single resource can only be tagged by a single Budget Code  
 
-**Filters** to be applied or removed by clicking on an chart or table within a report and looking to the 'Filters' blade that appears to the right of the report.  
+**Filters** can be applied or removed by clicking on an chart or table within a report and looking to the 'Filters' blade that appears to the right of the report.  
 
 Table **columns can be expanded** by selecting _'Drill on: Columns'_ and then _'Expand all down one level in the hierarchy'_ from the header icons that appear when hovering the mouse over the table.  
 
