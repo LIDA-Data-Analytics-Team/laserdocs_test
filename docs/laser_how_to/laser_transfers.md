@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to import or export files from LASER
+title: LASER File Transfers
 parent: LASER How To
 nav_order: 1.1
 ---
