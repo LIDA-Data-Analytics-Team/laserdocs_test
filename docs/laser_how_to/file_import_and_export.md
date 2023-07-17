@@ -8,58 +8,48 @@ nav_order: 1.1
 # How to import or export files from LASER
 {:.no_toc}
 
-The University of Leeds's secure file transfer platform, [BISCOM SFT,](https://laser-sft.leeds.ac.uk/sft) is the primary means of sensitive file transfer in and out of LASER. 
-Although circumstance may dictate that other means are used, for example NHS policy is to use their own SFT and nothing else.  
+All transfers to & from LASER are processed by the Data Analytics Team who will perform a disclosure and compliance review before any files are moved. Files that fail review will be rejected for transfer and reported to _Governance, Risk & Compliance_.  
 
-For Tier 3 sensitivity and above a secure transfer mechanism must be used, ie not email attachments or DropBox etc.
+For data that have been [classified](../laser_info/tiering.md) as Tier 3 sensitivity and above a secure transfer mechanism must be used, ie not email attachments or DropBox etc.  
 
+LASER's Secure File Transfer platform, [Biscom SFT](https://laser-sft.leeds.ac.uk/sft), is the primary means of file transfer in and out of LASER. Other mechanisms for transfer are possible where appropriate.  
 
-For a file transfer request, send a file an email to the DAT group inbox ‘dat@leeds.ac.uk’, for file import into or file export from a VRE within LASER.
-* seed list
+Only organisational email accounts can be used for transfers to and from LASER.  
+
+* seed list  
 {:toc}
 
-### Data/File Import
+## Data/File Import
 
-Send an email to the DAT inbox with a request for a file import to a VRE, mentioning the project name or code in the email subject.  
-The following should be included/highligfhted in the file export request.
- - the name and or project code of the VRE 
- - the name and email address of the data sender
- - the source and type of the file to be imported  
+The DAT can facilitate transfers from third parties and project members directly to the LASER environment.  
 
-It may be necessary to include additional information in order to ascertain compliance to data risk management. Example of additional information to provide include:  
+To initiate a file import, send an email to the DAT group inbox [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk) making sure to include the following details:
+- the name and/or number of the destination VRE 
+- the name and email address of the data sender or the location of the files to be imported
+
+It will speed your request to include additional information in order to help us ascertain compliance with applicable contracts and agreements:  
+- What does each file contain?  
+- What data, if any, is contained within each file?  
+- From where was it sourced?  
+- What risk classification is this data?  
+- Has this been captured by the data management plan?  
+
+The DAT will then arrange with the data sender to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The sender will receive an automated notification inviting them to register use the platform. Once registered and logged in they will see a message from a member of the DAT. Attaching files to a reply to that message will send them directly to us in LASER.  
+
+
+## Data/File Export
+
+The DAT can facilitate transfers to third parties and project members directly from the LASER environment.  
+
+To initiate a file export, send an email to the DAT group inbox [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk) making sure to include the following details:
+- the name and email address of the data recipient
+- the name and/or number of the source VRE 
+- the name and location of the file within the VRE
+
+It will speed your request to include additional information in order to help us ascertain compliance with applicable contracts and agreements:  
    - What does each file contain?  
-   - What data, if any, is contained within each file?  
-   - From where was it sourced?  
-   - What risk classification is this data?  
-   - Has this been captured by the data management plan?  
-
-As a resposnse to the file import email, the DAT team will set up a Biscom SFT for a secure file transfer into your VRE within LASER.
-The data sender will receive an automated email containing an invitation link to Biscom. The data sender can also log into Biscom through [BISCOM SFT.](https://laser-sft.leeds.ac.uk/sft) 
-When they login, they'll see a secure message, please reply to the secure message with the file attached. 
-
-_If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page)._ 
-
-
-***Some none sentivive files such as programming language scripts or codes etc can be directly sent to the DAT inbox with the information above for file import into the VRE***
-
-
-### Data/File Export
-
-Send an email to the DAT inbox with a file export request, mentioning the project name or code in the email subject.  
-The following should be included/highligfhted in the file export request.
-- the name and or project code of the VRE 
-- the name and email address of the file recipient
-- the name and location of the file within the VRE e.g. **`N:\Import\2023\00\00`**  
-
-It may be necessary to include additional information in order to ascertain complianceto data risk management. Example of additional information to provide include: 
-   - What does this file contain?  
-   - What is the source data for this file?  
-   - How was this file generated?  
+   - What is the source data for each file?  
+   - How was each file generated?  
    - What measures have been taken to minimise disclosure risk?  
 
-
-As a response to the file export request email, DAT will send the file using Biscom SFT to the email address of the file reciepient.
-The file recipeint will receive an automated email containing an invitation link to downlaod the file in Biscom. The data recipeint can also log into Biscom through [BISCOM SFT.](https://laser-sft.leeds.ac.uk/sft) 
-When they login, they'll see a secure message,and the requested file attached, download th file from there.
-
-_If the data sender is using Biscom for the first time with us, they will have to register an account (by clicking the register link on the Biscom login page)._ 
+The DAT will then arrange with the data recipient to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The recipient will receive an automated notification inviting them to register use the platform. Once registered and logged in they will see a message from a member of the DAT and their file(s) available for download.  
