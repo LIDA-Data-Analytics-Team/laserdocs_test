@@ -12,6 +12,8 @@ This team, located in LIDA, provide expertise in data handling, data wrangling, 
 
 The Team also provide support and advice for use of the LASER platform and have key responsibilities in operationalising the LIDA Information Governance Framework.
 
+![Map of skills & competencies within the DAT](../../images/dat/dat_skills_map.png)
+
 ## Adam Keeley
 **Role** : Data Analytics Team Manager  
 **Areas of RSE technical research interests** : Cloud computing, data management, Trusted Research Environments, ML/AI.  
