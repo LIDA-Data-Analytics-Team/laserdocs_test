@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Data Analytics Team 
-LIDA’s Data Analytics Team (DAT) have expertise across different areas of data management, analytics, research software engineering and information governance. These skills are complemented by their experience of working within specific domains, including health and urban analytics. Please see the image below for an overview of the types of skills and compentancies available through the DAT.  
+LIDA’s Data Analytics Team (DAT) have expertise across different areas of data management, analytics, research software engineering and information governance. These skills are complemented by their experience of working within specific domains, including health and urban analytics.  
 
 |![Map of skills & competencies within the DAT](../../images/dat/dat_skills_map.png)|
 |:--:|
