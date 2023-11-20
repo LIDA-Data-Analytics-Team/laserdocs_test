@@ -5,7 +5,7 @@ When you, as a researcher, approach LIDA with a project proposal, it goes throug
 ## RMP Stages:
 
 1. **Proposal:**
-   - Contact Paul Evans, LIDA Research and Innovation Development Manager, with your research proposal.
+   - Contact LIDA Research and Innovation Development Manager(Jodi Gunning), with your research proposal.
    - If aligned with LIDA's portfolio, the Data Analytics Team (DAT) will arrange an introductory meeting.
 
 2. **Pre-grant:**
