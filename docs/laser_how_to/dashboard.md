@@ -13,6 +13,8 @@ The LASER Dashboard has been created to assist with managing and monitoring cost
 You can navigate to the LASER Dashboard by following this link and logging in using your University of Leeds credentials:  
 [LASER Dashboard](https://app.powerbi.com/Redirect?action=OpenApp&appId=38c333ec-3a1d-4b9f-8fdc-3b719c3f0055&ctid=bdeaeda8-c81d-45ce-863e-5232a535b7cb)  
 
+<iframe width="420" height="315" src="https://youtu.be/B6GxbitK2A0" frameborder="0" allowfullscreen></iframe>
+
 Information on each report can be found below.  
 
 * seed list
