@@ -19,8 +19,8 @@ video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7ad
 > [!IMPORTANT]  
 > Please ensure familiary with any relevant restrictions on Territory of Use required by all relevant Data sharing Agreements you have in place for your project.  
 
-|:exclamation: IMPORTANT|
-|---|
+| :exclamation: IMPORTANT|
+|:---|
 |Please ensure familiary with any relevant restrictions on Territory of Use required by all relevant Data sharing Agreements you have in place for your project.|  
 
 You will need:
