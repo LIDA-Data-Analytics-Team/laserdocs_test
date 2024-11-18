@@ -14,3 +14,8 @@ license_url: https://www.gnu.org/licenses/gpl-3.0.html
 
 ### Site content
 #logo: "/images/index/LIDA-logo.jpg"
+
+callouts:
+  important:
+    title: Important
+    color: blue
