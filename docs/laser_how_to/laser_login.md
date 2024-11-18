@@ -11,9 +11,14 @@ video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7ad
 
 ## How to connect to a Virtual Research Environment
 <br>
-{% include videoplayer.html title=page.video_title src=page.video_src %}
+{% include videoplayer.html title=page.video_title src=page.video_src %}  
 
 ### Prerequisites
+
+
+> [!IMPORTANT]
+> Please ensure familiary with any relevant restrictions on Territory of Use required by all relevant Data sharing Agreements you have in place for your project.  
+
 You will need:
 - Citrix Workspace installed to the machine you are connecting to LASER from.
   - Citrix Workspace is available through Software Centre on UoL managed devices.
