@@ -6,6 +6,7 @@ nav_order: 7
 ---
 
 # SATRE Self Assessment
+{:.no_toc}
 
 The [Standard Architecture for Trusted Research Environments (SATRE)](https://satre-specification.readthedocs.io/en/stable/index.html) project provides a Standard Architecture for Trusted Research Environments (TREs). It incorporates knowledge and best practices from multiple institutions and sectors across the UK. This includes all aspects of TRE provision such as information governance procedures, computing technology, data management and other capabilities.  
 
