@@ -5,9 +5,6 @@ parent: LASER Info
 nav_order: 7
 ---
 
-* seed list
-{:toc}
-
 # SATRE Self Assessment
 
 The [Standard Architecture for Trusted Research Environments (SATRE)](https://satre-specification.readthedocs.io/en/stable/index.html) project provides a Standard Architecture for Trusted Research Environments (TREs). It incorporates knowledge and best practices from multiple institutions and sectors across the UK. This includes all aspects of TRE provision such as information governance procedures, computing technology, data management and other capabilities.  
@@ -15,6 +12,9 @@ The [Standard Architecture for Trusted Research Environments (SATRE)](https://sa
 It aims to standardise the capabilities of TREs, making it easier for users, operators, and developers to work with sensitive data, and making the operation of TREs more transparent to data owners and the general public.  
 
 Below is LIDA's self assessment of LASER against the SATRE standard.  
+
+* seed list
+{:toc}
 
 ## Information Governance  
 
