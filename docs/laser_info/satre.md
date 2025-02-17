@@ -33,7 +33,7 @@ Below is LIDA's self assessment of LASER against the SATRE standard.
 
 ## Summary  
 
-Count of scores for each component by category:  
+Count of scores for each component by Importance:  
 
 |Score  |Mandatory  |Recommended    |Optional   |
 |:-:    |:-:        |:-:            |:-:        |
