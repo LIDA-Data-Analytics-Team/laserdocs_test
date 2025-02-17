@@ -17,7 +17,7 @@ Below is LIDA's self assessment of LASER against the SATRE standard.
 * seed list
 {:toc}
 
-{: .important-title }
+{: .note-title }
 > Scoring
 >
 > TREs are scored against each statement in the SATRE specification using this scoring system:
