@@ -31,6 +31,16 @@ Below is LIDA's self assessment of LASER against the SATRE standard.
 > 
 > A score of 1 or above means you have met the requirement. Optionally you can use 1 and 2 to indicate potential areas of improvement in your TRE.
 
+## Summary  
+
+Count of scores for each component by category:  
+
+|Components|<text color=red>0</text>|<text color=orange>1</text>|<text color=green>2</text>|N/A|
+|---|:-:|:-:|:-:|:-:|
+|Mandatory|0|10|68|1
+|Optional/Recommended|8|13|56|4|
+
+
 ## Information Governance  
 
 |Item   |Statement  |Guidance   |Importance |Score  |Response   |
