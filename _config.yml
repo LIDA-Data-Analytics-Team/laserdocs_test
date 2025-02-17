@@ -19,3 +19,12 @@ callouts:
   important:
     title: Important
     color: blue
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    title: 
+    color: yellow
+  note:
+    title: Note
+    color: purple
