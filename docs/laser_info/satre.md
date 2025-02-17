@@ -45,7 +45,7 @@ Count of LASER scores for each component by Importance:
 ## Information Governance  
 
 |Item   |Statement  |Guidance   |Importance |Score  |Response   |
-|---    |---        |---        |---        |---    |---        |
+|:-:    |---        |---        |---        |:-:    |---        |
 |1.1.1.|You must gather and monitor the information governance requirements needed to fulfil any legal, regulatory and ethical standards.|Requirements will come from a variety of sources including legislation, contractual obligations and ethical standards. Requirements must be monitored to ensure the TRE controls remain appropriate.|Mandatory|2|ISO27001:2022 15331-ISMS- 001 |
 |1.1.2.|You must ensure controls are implemented to ensure the requirements are met.|Control implementation should be systematic and directly aligned to the internal and stakeholder requirements.|Mandatory|2|ISO27001:2022 15331-ISMS- 001 |
 |1.1.3.|You must ensure there are adequate resources to meet information governance requirements.|Ensuring information governance controls are suitable and enforced requires an investment of funding and people appropriate to the size of the TRE.|Mandatory|2|Information Governance Manager , DAT team, support from IT |
@@ -92,7 +92,7 @@ Count of LASER scores for each component by Importance:
 ## Computing technology and Information Security  
 
 |Item   |Statement  |Guidance   |Importance |Score  |Response   |
-|---    |---        |---        |---        |---    |---        |
+|:-:    |---        |---        |---        |:-:    |---        |
 |2.1.1.|You must not allow users to copy data out of your TRE via the system clipboard.|A TRE user must not be able to copy sensitive data out of a workspace using the system clipboard. A TRE may allow user to paste text into a workspace. This might not be relevant to your TRE, for example if your user interface does not have a clipboard.|Mandatory|2|No data can be egressed from LASER except by DAT through approved processes|
 |2.1.2.|Your TRE workspace should provide an environment familiar to your users.|This may take the form of a virtual Windows or Linux desktops, non-desktop interfaces such as JupyterLab and other web applications, or a terminal. Bespoke TRE-specific software should be avoided when widely used alternatives already exist.|Recommended|2||
 |2.1.3.|A TRE could restrict data access from data consumers entirely and provide an interface for submitting code.|For example, you might use a system where users submit jobs that run over the data and return results without allowing direct data access.|Optional|0||
@@ -159,7 +159,7 @@ Count of LASER scores for each component by Importance:
 ## Data management
 
 |Item   |Statement  |Guidance   |Importance |Score  |Response   |
-|---    |---        |---        |---        |---    |---        |
+|:-:    |---        |---        |---        |:-:    |---        |
 |3.1.1.|You must have processes in place to assess the legal and regulatory implications of handling the data through its full lifecycle.|This involves considering your obligations to data controllers and subjects, and whether any security controls may be legally or contractually required. An assessment of the risks involved will also be needed. It may involve classifying the project into a predefined sensitivity category or defining bespoke controls.|Mandatory|2|Tiering model used to predefine sensitivity category|
 |3.1.2.|You should keep records of data handling decisions.|Decisions that are made as part of the process discussed above should be recorded and made available for inspection by all stakeholders.|Recommended|2|Recorded though DSA / DPIA|
 |3.1.3.|Information asset owners must classify data sets according to a common process and data classification methodology.|To classify the data, information asset owners must have a good understanding of the datasets and the process of classification. Once classified, data can be stored in a TRE with an appropriate security controls (see later section on security levels and tiering), which can factor in the requirements for confidentiality, integrity and availability of the data.|Mandatory|2|Tiering model used to predefine sensitivity category|
@@ -200,7 +200,7 @@ Count of LASER scores for each component by Importance:
 ## Supporting Capabilities
 
 |Item   |Statement  |Guidance   |Importance |Score  |Response   |
-|---    |---        |---        |---        |---    |---        |
+|:-:    |---        |---        |---        |:-:    |---        |
 |4.1.1.|You should have a business continuity plan that includes consideration of loss of service for deployed TREs.|This may be due to downtime from service providers, a breach, or loss of power. Your plan should detail your process for managing loss of service for deployed TREs, and evaluation of impact of such loss.|Recommended|2||
 |4.1.2.|You should regularly test the aspects of your business continuity plan concerning TREs, and have a process in place to iterate the plan if required.||Recommended|1||
 |4.2.1.|You should ensure that all projects using your TRE have a named project manager.|The project manager has responsibility to ensure the smooth running of the project. Their responsibilities may include budget management, tracking TRE status, managing communications with the TRE operations team, and other project support tasks.|Recommended|2||
