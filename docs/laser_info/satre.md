@@ -35,11 +35,12 @@ Below is LIDA's self assessment of LASER against the SATRE standard.
 
 Count of scores for each component by category:  
 
-|Components|<text color=red>0</text>|<text color=orange>1</text>|<text color=green>2</text>|N/A|
-|---|:-:|:-:|:-:|:-:|
-|Mandatory|0|10|68|1
-|Optional/Recommended|8|13|56|4|
-
+|Score  |Mandatory  |Recommended    |Optional   |
+|:-:    |:-:        |:-:            |:-:        |
+|0      |0          |5              |3          |
+|1      |10         |10             |3          |
+|2      |68         |43             |13         |
+|N/A    |1          |2              |2          |
 
 ## Information Governance  
 
