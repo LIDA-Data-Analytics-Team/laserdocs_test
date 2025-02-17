@@ -23,7 +23,7 @@ Below is LIDA's self assessment of LASER against the SATRE standard.
 > TREs are scored against each statement in the SATRE specification using this scoring system:
 > 
 > |Score|Meaning|Description|
-> |---|---|---|
+> |:-:|---|---|
 > |0 |Not met|The TRE does not meet this requirement (if this is Mandatory this means the TRE is not SATRE compliant)|
 > |1 |Sufficient|The TRE meets this requirement met but there is substantial scope for improvement|
 > |2 |Satisfied|The TRE meets this requirement met but there may still be scope for improvement|
