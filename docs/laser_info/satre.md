@@ -60,6 +60,7 @@ Count of LASER scores for each component by Importance:
 |**1.1.3.** You must ensure there are adequate resources to meet information governance requirements.<br><br>Ensuring information governance controls are suitable and enforced requires an investment of funding and people appropriate to the size of the TRE.|Mandatory|2|Information Governance Manager , DAT team, support from IT |
 
 ### 1.2. Quality Management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**1.2.1.** You must ensure that changes to policies and standard operating procedures can only be made by trusted individuals.<br><br>It is important to ensure that policies and SOPs are relevant, up-to-date and carefully controlled to maintain the integrity and security of your TRE organisation.|Mandatory|2||
@@ -76,6 +77,7 @@ Count of LASER scores for each component by Importance:
 |**1.2.12.** You could use a QMS (Quality Management System) to standardise and automate quality management tasks and workflows, and to generate quality data and reports automatically.<br><br>A basic QMS could be a set of spreadsheets or documents held in a repository which are manually maintained.<br>More mature applications will provide workflows and generate quality data through manual and automated actions.|Optional|1|QMS is maintained manually. |
 
 ### 1.3. Risk Management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**1.3.1.** You must have a way to score risk to understand the underlying severity.<br><br>You have a risk assessment methodology for scoring risks on multiple axes such as impact and likelihood.|Mandatory|2|Risk Management plan reported to IGMG|
@@ -85,6 +87,7 @@ Count of LASER scores for each component by Importance:
 |**1.3.5.** You must understand the risk appetite of your TRE organisation.<br><br>This includes understanding ownership of risk, and ability to accept risk which falls outside of the appetite should that become necessary.|Mandatory|2||
 
 ### 1.4. Study Management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**1.4.1.** You must have checks in place to ensure a project has the legal, financial and ethical requirements in place for the duration of the project.<br><br>This includes checks that contracts are in place where required, adequate funding is available for the duration of the project, and responsibilities concerning data handling are understood by all parties.|Mandatory|2|RMP sets out expectations and expected costs|
@@ -96,6 +99,7 @@ Count of LASER scores for each component by Importance:
 |**1.4.7.** You should keep a complete record of all the research studies and projects within the TRE current and past.<br><br>The study register should contain all data related to a study including a reference to data assets, project team members, information asset owners and any compliance activities required.|Recommended|2|Asset register included on PRISM|
 
 ### 1.5. Member Accreditation  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**1.5.1.** You must have a robust method for identifying accredited members of your TRE organisation, prior to their accessing of sensitive data.<br><br>This may include ID checks or email/phone verification.|Mandatory|2|All LASER users must have Leeds Employment status that gives system authentication and have completed Information Governance training.  |
@@ -106,6 +110,7 @@ Count of LASER scores for each component by Importance:
 |**1.5.6.** You must give each user of the TRE a unique logon with changes to any records strictly controlled.<br><br>The unique identifier and all associated records for a user should be traceable across the entire TRE.<br>This will include training records, affiliations, contract agreements and ethics approvals where required.|Mandatory|2|All LASER users have a unique log on which is controlled by University Identity management |
 
 ### 1.6. Training Delivery and Management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**1.6.1.** You must determine what training is relevant for all roles within the TRE organisation.<br><br>This may include, for instance, cyber security training, GDPR training, and higher level training for system operators.<br>Specialised roles are likely to need more tailored training.<br>Identification of these specialties should be done through a systematic training needs analysis.<br>Specific training may also be required based on the data or information asset owner such as GCP.|Mandatory|2|All University staff , including LASER Users must complete information governance, H&S and equality training.  |
@@ -120,6 +125,7 @@ Count of LASER scores for each component by Importance:
 
 ## Computing technology and Information Security  
 ### 2.1. End user computing  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**2.1.1.** You must not allow users to copy data out of your TRE via the system clipboard.<br><br>A TRE user must not be able to copy sensitive data out of a workspace using the system clipboard.<br>A TRE may allow user to paste text into a workspace.<br>This might not be relevant to your TRE, for example if your user interface does not have a clipboard.|Mandatory|2|No data can be egressed from LASER except by DAT through approved processes|
@@ -142,6 +148,7 @@ Count of LASER scores for each component by Importance:
 |**2.1.18.** Your TRE could integrate with large-scale data analytics tools for working with large datasets.<br><br>For example, Spark and Hadoop can be used for distributed computing across a cluster.<br>This may be an advantage where a TRE is using an amount of data that is too large for single-machine computing to be practical.|Optional|0||
 
 ### 2.2. Infrastructure management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**2.2.1.** You must have a documented procedure for deploying infrastructure.<br><br>This might, for instance, be a handbook that is followed or a set of automated scripts.|Mandatory|2||
@@ -162,6 +169,7 @@ Count of LASER scores for each component by Importance:
 |**2.2.16.** Your TRE should record computational resource usage at the user or aggregate level.<br><br>This is useful for optimising allocation of resources, and managing costs.|Recommended|2|Azure portal / Prism|
 
 ### 2.3. Capacity management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**2.3.1.** You must ensure that all projects understand what resources are available and what the associated costs will be before the project starts.<br><br>For on-premises systems this might be related to the available hardware, for cloud-based systems there might be limits on how many instances of a particular resource (*e.g.* GPUs) can be used<br>Projects should use this information to understand whether the available resources will be sufficient for their requirements.|Mandatory|2|RMP provide cost expectations, PRISM allows monitoring|
@@ -170,6 +178,7 @@ Count of LASER scores for each component by Importance:
 |**2.3.4.** You must ensure that the anticipated resource requirements will not result in overspending by the TRE.<br><br>For cloud-based TREs this may involve budgeting and/or restricting resource consumption on a project-by-project basis.<br>For on-premises TREs this may involve managing expectations to match the available resource.|Mandatory|2|RMP provide cost expectations, PRISM allows monitoring|
 
 ### 2.4. Configuration management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**2.4.1.** You must have a documented procedure for configuring infrastructure.<br><br>This might, for instance, be a handbook that is followed or a set of automated scripts.|Mandatory|2||
@@ -179,6 +188,7 @@ Count of LASER scores for each component by Importance:
 |**2.4.5.** You must be able to replace a non-compliant TRE with a compliant system.<br><br>This might involve reconfiguring a running system or by replacing it with a compliant one.|Mandatory|2||
 
 ### 2.5. Information security  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**2.5.1.** You should keep backups of data and research environments, provided that this is permitted by law.<br><br>Keeping backups could help reduce the impact of events like accidental deletion and data corruption on work in a TRE.<br>TRE developers may want to consider how different elements such as sensitive input data or users’ workspaces may be backed up, and whether they should be.|Recommended|2||
@@ -201,8 +211,8 @@ Count of LASER scores for each component by Importance:
 |**2.5.18.** Your TRE may need to comply with specific regulatory requirements due to the types of data it is hosting.<br><br>Regulatory frameworks often emphasise the need for security controls to protect sensitive data.<br>Compliance with these regulations could require organisations to implement specific security measures to safeguard their TRE from unauthorised access.|Mandatory|2|All data managed according to DS  / DPIA  . ISO27001:2022 complaint , DSPT |
 
 ## Data management
-
 ### 3.1. Data lifecycle management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**3.1.1.** You must have processes in place to assess the legal and regulatory implications of handling the data through its full lifecycle.<br><br>This involves considering your obligations to data controllers and subjects, and whether any security controls may be legally or contractually required.<br>An assessment of the risks involved will also be needed.<br>It may involve classifying the project into a predefined sensitivity category or defining bespoke controls.|Mandatory|2|Tiering model used to predefine sensitivity category|
@@ -220,6 +230,7 @@ Count of LASER scores for each component by Importance:
 |**3.1.13.** Data held within the TRE should be the minimum required for analysis or research.<br><br>Data stored and processed within the TRE should be limited to the amount required for that purpose.<br>This increases the level of protection for data subjects, makes it easier to comply with data protection legislation and could reduce the overhead of storage and processing.|Recommended|2|We work with researchers and data owners to apply the principle of minimisation|
 
 ### 3.2. Identity and access management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**3.2.1.** You must not create user accounts for use by more than one person.<br><br>It is important that each user account should be used by one, and only one, person in order to facilitate the assignment of roles or permissions and to log the actions of individuals.|Mandatory|2|Each user has a unique user identify|
@@ -230,6 +241,7 @@ Count of LASER scores for each component by Importance:
 |**3.2.6.** You could restrict access to particular networks or physical locations.<br><br>Restricting access to a set of known, static, personal or institutional IP addresses can help avoid speculative attacks.<br>When appropriate, access could also be restricted to physical locations with security controls and access requirements.|Optional|2|Thin clients in place for Tier 4 data, network segregation in place for LASER |
 
 ### 3.3. Output management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**3.3.1.** You should have a system to help classify outputs.<br><br>Removing data from a TRE can be a difficult process as there is potential for sensitive data to be revealed.<br>Having guidance, processes and methods will help ensure that outputs are correctly classified and, furthermore, that outputs due to be openly published are identified.<br>Encouraging openly published outputs will enhance a TRE’s impact and transparency.|Recommended|2|Recorded though DSA / DPIA|
@@ -242,11 +254,13 @@ Count of LASER scores for each component by Importance:
 |**3.3.8.** TRE outputs should be limited to the minimum required for sharing results of any analyses.<br><br>This decreases the risk of inadvertent disclosure, and makes it easier to comply with data protection legislation (e.g. GDPR).|Recommended|2|Recorded though DSA / DPIA|
 
 ### 3.4. Information search and discovery  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**3.4.1.** You should provide a metadata catalogue of available datasets for users.<br><br>This is particularly relevant for TREs with population-level data collection of general interest.<br>This may not be appropriate for TREs where each project has its own data sharing agreement with one or more data provider or very sensitive datasets.|Recommended|N/a||
 
 ### 3.5. Security Levels and Tiering  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**3.5.1.** You must be able to specify what categories of data your TRE is able to support.<br><br>Your TRE must provide an explanation of the kinds of data it has been designed to hold, with reference to its security capabilities, that can be understood by all stakeholders.<br>Relevant stakeholders may include information asset owners and project teams and they may have different levels of technical expertise.|Mandatory|2|Tiering model Allows project to work within a suitable level on control |
@@ -254,17 +268,20 @@ Count of LASER scores for each component by Importance:
 |**3.5.3.** Your TRE could offer a pre-defined set of security control tiers.<br><br>Security control tiers can be designed to cover the types of project or data you expect to handle.<br>Projects may be placed into the most suitable tier rather than having a bespoke design.<br>This reduces the number of unique configurations that need to be supported.|Optional|2|Tiering model Allows project to work within a suitable level on control |
 
 ### 3.6. Research Meta-Data  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**3.6.1.** You should have a consistent and easily accessible meta-data data model or similar to describe what a data asset contains.<br><br>Where possible, existing data models should be employed (and extended if necessary).<br>More detailed information on the data schema for data assets should also be provided to assist researchers in understanding what data may be available without the need to see the underlying data.|Recommended|2|Recorded though DSA / DPIA|
 |**3.6.2.** You could provide summary, abstracted or synthetic data to researchers without exposing the underlying data set.<br><br>To reduce the need for access to row level data researchers could be provided with non-sensitive versions of the data either as summary data or using synthetic versions of the data for activities such as code development and cohort planning.|Optional|2||
 
 ### 3.7. Meta-Data Search and Discovery Application  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**3.7.1.** You could provide an interface application for data consumers and data subjects to query elements of the data.<br><br>In order to make data findable, an application which queries the meta-data or elements of the research data could be made more easily accessible than the data itself.|Optional|N/a||
 
 ### 3.7. 3.8. Data Archiving  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**3.8.1.** Archived data within the TRE should be read only.<br><br>Archived data by its very nature should not change and therefore be maintained as a read only store.<br>If an update is required, it may be pulled from archive into a separate operational store.|Recommended|2||
@@ -272,18 +289,21 @@ Count of LASER scores for each component by Importance:
 
 ## Supporting Capabilities
 ### 4.1. Business continuity management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.1.1.** You should have a business continuity plan that includes consideration of loss of service for deployed TREs.<br><br>This may be due to downtime from service providers, a breach, or loss of power.<br>Your plan should detail your process for managing loss of service for deployed TREs, and evaluation of impact of such loss.|Recommended|2||
 |**4.1.2.** You should regularly test the aspects of your business continuity plan concerning TREs, and have a process in place to iterate the plan if required.<br><br>|Recommended|2||
 
 ### 4.2. Project and programme management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.2.1.** You should ensure that all projects using your TRE have a named project manager.<br><br>The project manager has responsibility to ensure the smooth running of the project.<br>Their responsibilities may include budget management, tracking TRE status, managing communications with the TRE operations team, and other project support tasks.|Recommended|2||
 |**4.2.2.** You should not give project managers direct access to the TRE.<br><br>Doing so ensures a separation between those able to access sensitive data, and those overseeing access to sensitive data.|Recommended|2||
 
 ### 4.3. Knowledge management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.3.1.** You must document all features of your TRE implementation.<br><br>This includes ensuring all documentation is discoverable, clear, and able to be easily updated based on stakeholder feedback|Mandatory|1|Some aspects could be more clear|
@@ -291,6 +311,7 @@ Count of LASER scores for each component by Importance:
 |**4.3.3.** You should periodically carry out a training needs analysis (TNA) for all stakeholders included within your TRE provision.<br><br>At least once every 12 months you should assess the training needs of your stakeholders, and ensure they have easy access to all required training materials|Recommended|2|Done as part of ISMS review|
 
 ### 4.4. Financial management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.4.1.** You must ensure that all projects using your TRE are aware of any associated costs and are able and willing to pay them.<br><br>Costs may include provision of the underlying TRE infrastructure, additional resources required in a specific TRE (for instance memory or additional compute), hardware including managed devices, and staff support costs|Mandatory|2|Agreed through RMP|
@@ -299,21 +320,25 @@ Count of LASER scores for each component by Importance:
 |**4.4.4.** You should minimise the cost of your TRE infrastructure wherever possible<br><br>You should have regular reviews of your TRE provision and actively work to bring down costs, streamline provision, and optimise support.|Recommended|2||
 
 ### 4.5. Procurement  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.5.1.** You must identify any goods or services that will be needed to operate the TRE and ensure that a plan is in place to purchase them as needed.<br><br>These may include computing hardware, cloud credits or devices through which users access the TRE.|Mandatory|2|Managed according to Univerty Processes|
 
 ### 4.6. IT Service management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.6.1.** Your TRE must have a team of Operators in place to support projects working with TREs.<br><br>This may be part of your organisation’s IT support team, or separate.<br>Responsibility should be clear and stakeholders should easily be able to access support appropriate to their needs.|Mandatory|2|DAT team and IT provide service to LASER |
 
 ### 4.7. Relationship management  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.7.1.** You should have a clear process in place for stakeholders to feedback on your TRE infrastructure.<br><br>This may include a GitHub repository where people can open issues and discussions, communication streams like Slack or email, or forms stakeholders can fill in.|Recommended|1|Issues and suggestions can be reported directly to DAT, discussed on the LASER User Group on Teams Channel or directly with IT Services|
 
 ### 4.8. Public Involvement and Engagement  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.8.1.** All public engagement activities must include a range of perspectives and be inclusive (*optional for TREs without personal data).<br><br>Any public engagement activity carried out by TREs should involve diverse participants and that activities are accessible.<br>Recruitment plans should consider how to proactively reach a representative sample of people or target particular groups of people where relevant<br>This could include following guidelines such as PEDRI.|Mandatory*|n/a|LASER is data agnostic, responsibility for this activity lies with each project and their PI; University processes (eg Ethics) should ensure compliance|
@@ -322,6 +347,7 @@ Count of LASER scores for each component by Importance:
 |**4.8.4.** You should publicly share details of incidents, near misses, and mitigations in a timely fashion, in line with good practices for responsible disclosure.<br><br>This may be via the TRE website or annual reports.<br>Sharing this information is particularly important when a TRE holds public sector data.|Recommended|2||
 
 ### 4.9. Legal services  
+
 |Component  |Importance |Score      |Response   |
 |---        |---        |:-:        |---        |
 |**4.9.1.** You should identify areas where legal advice may be required and ensure that you have ready access to it.<br><br>It is likely that legal advice will be necessary for several issues around the handling of sensitive data, and managing project contracts.<br>TRE operators should have ready access to legal advice, including a way to solicit advice and carry out associated actions.|Recommended|2|DPO sits on Information Governance Managemnt Group (IGMG), Information Governance Manager embedded in LIDA|
