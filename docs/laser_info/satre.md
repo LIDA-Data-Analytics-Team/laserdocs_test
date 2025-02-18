@@ -14,8 +14,14 @@ It aims to standardise the capabilities of TREs, making it easier for users, ope
 
 Below is LIDA's self assessment of LASER against the SATRE standard.  
 
-* seed list
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
 {:toc}
+</details>
 
 {: .note-title }
 > Scoring
