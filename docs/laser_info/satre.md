@@ -50,7 +50,7 @@ Count of LASER scores for each component by Importance:
 |2      |74         |45             |13         |
 |N/A    |2          |2              |2          |
 
-## Information Governance  
+## 1. Information Governance  
 ### 1.1. Governance Requirements  
 
 |Component  |Importance |Score      |Response   |
@@ -123,7 +123,7 @@ Count of LASER scores for each component by Importance:
 |**1.6.8.** You could ensure that any courses you use are available in standard, transferable formats.<br><br>Support for standard formats such as SCORM allows courses to be shared between providers.<br>This could help facilitate standardisation of training provision for TRE users across organisations.|Optional|1|Available but not used and would require investigation|
 |**1.6.9.** You could keep historical copies of courses in order to demonstrate competency at a given point in time.<br><br>Information asset owners and regulators may be required to audit historical records, *e.g.* for clinical trials.<br>It may be necessary to retain copies of superseded training along with versions of certifications within the training record.|Optional|0||
 
-## Computing technology and Information Security  
+## 2. Computing technology and Information Security  
 ### 2.1. End user computing  
 
 |Component  |Importance |Score      |Response   |
@@ -210,7 +210,7 @@ Count of LASER scores for each component by Importance:
 |**2.5.17.** Your TRE could offer physical protection measures against data leakage or theft via physical means.<br><br>Restricting access to research facilities containing computers logged into TREs can help prevent malicious actors from viewing or stealing sensitive data, for example by photographing a computer screen.<br>Physical controls on access to a TRE could include surveillance systems, restricting physical access to authorised personnel only, visitor management systems and employee training.|Optional|2|Fob access to secure office denvioremnt .  Clear desk policies enforced. .  Tier 4 data is restricted to safe rooms / safe space where no phones , pen and papers allowed.  CCTV in place and visitors accompanied. |
 |**2.5.18.** Your TRE may need to comply with specific regulatory requirements due to the types of data it is hosting.<br><br>Regulatory frameworks often emphasise the need for security controls to protect sensitive data.<br>Compliance with these regulations could require organisations to implement specific security measures to safeguard their TRE from unauthorised access.|Mandatory|2|All data managed according to DS  / DPIA  . ISO27001:2022 complaint , DSPT |
 
-## Data management
+## 3. Data management
 ### 3.1. Data lifecycle management  
 
 |Component  |Importance |Score      |Response   |
@@ -287,7 +287,7 @@ Count of LASER scores for each component by Importance:
 |**3.8.1.** Archived data within the TRE should be read only.<br><br>Archived data by its very nature should not change and therefore be maintained as a read only store.<br>If an update is required, it may be pulled from archive into a separate operational store.|Recommended|2||
 |**3.8.2.** Long-term archives must be held in simple, standard formats to ensure accessibility.<br><br>Some data archives may be required by policy or legislation to be kept for very long periods within the scope of the TRE.<br>Such data should be held in the simplest possible file format, conforming to international standards if available, to ensure they are platform and application agnostic.|Recommended|2||
 
-## Supporting Capabilities
+## 4. Supporting Capabilities
 ### 4.1. Business continuity management  
 
 |Component  |Importance |Score      |Response   |
