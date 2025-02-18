@@ -41,6 +41,14 @@ Below is LIDA's self assessment of LASER against the SATRE standard.
 
 ## Summary  
 
+Combined scores for each Pillar:
+
+||Computing technology and Information Security|Data management|Information governance|Supporting Capabilities|
+|---|:-:|:-:|:-:|:-:|
+|**Combined score**|104/122|64/66|75/82|36/38|
+|**Capabilities met?**|Yes|Yes|Yes|Yes|
+
+
 Count of LASER scores for each component by Importance:  
 
 |Score  |Mandatory  |Recommended    |Optional   |
