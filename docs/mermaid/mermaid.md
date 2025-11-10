@@ -7,10 +7,10 @@ nav_order: 1
 
 # Flowcharts - Basic Syntax
 
-```mermaid```
+```mermaid
 graph TD;
 A-->B;
 A-->C;
 B-->D;
 C-->D;
-```</div>```
+```
