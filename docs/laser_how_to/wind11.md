@@ -38,7 +38,7 @@ From your Windows 11 VM:
 3. Launch the AppsAnywhere portal and login with your UoL credentials when prompted.
 
 You should see the AppsAnywhere home page.  
-![appsanywhere_luanch.png](../images/wind11/appsanywhere_luanch.png)
+![appsanywhere_luanch.png](../../images/wind11/appsanywhere_luanch.png)
 
 ---
 
@@ -50,7 +50,7 @@ From the left-hand menu:
 2. Under **Categories**, select **LASER Approved**.
 
 Only applications approved for use within the LASER are displayed.
-![appsanhwere_laser_how_to.png](../images/wind11/appsanhwere_laser_how_to.png)
+![appsanhwere_laser_how_to.png](../../images/wind11/appsanhwere_laser_how_to.png)
 
 ## Step 3 - Launch an Application
 
@@ -64,7 +64,7 @@ The application will then:
 
 Some applications may take a few minutes to launch the first time they are used.
 
-![Available Apps](../images/wind11/appanywhere_laser_available_apps.png)
+![Available Apps](../../images/wind11/appanywhere_laser_available_apps.png)
 
 ---
 
