@@ -18,7 +18,8 @@ All existing users have been migrated from the legacy Windows 10 environment to 
 - Software applications may need to be **launched, configured, or reinstalled** through AppsAnywhere.
 - User-specific settings and local customisations from the previous Windows 10 VM may need to be recreated.
 
-> **Important:** Project data has not been affected by the upgrade.
+{: .important }
+> Project data has not been affected by the upgrade.  
 
 All project data stored on the **Project N Drive** remains available and the existing project folder structure and file paths have not changed.
 It is recommended that project data be stored on N Drive at all times, and avoid storing important project data on local VM desktop folders, or other local locations.
